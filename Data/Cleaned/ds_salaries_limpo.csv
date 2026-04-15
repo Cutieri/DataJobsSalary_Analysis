@@ -1,0 +1,608 @@
+,Ano_de_Trabalho,Nivel_de_Experiencia,Tipo_de_Emprego,Cargo,Salario,Moeda_do_Salario,Salario_em_USD,Residencia_do_Funcionario,Tipo_de_Contrato,Localizacao_da_Empresa,Tamanho_da_Empresa,Área_de_Atuação
+0,2020,Pleno,Tempo integral,Data Scientist,"70000,0",EUR,"79833,0",DE,Presencial,DE,Grande,Cientista de Dados
+1,2020,Senior,Tempo integral,Machine Learning Scientist,"260000,0",USD,"260000,0",JP,Presencial,JP,Pequena,Cientista de Dados
+2,2020,Senior,Tempo integral,Big Data Engineer,"85000,0",GBP,"109024,0",GB,Híbrido,GB,Média,Engenheiro de Dados
+3,2020,Pleno,Tempo integral,Product Data Analyst,"20000,0",USD,"20000,0",HN,Presencial,HN,Pequena,Analista de Dados
+4,2020,Senior,Tempo integral,Machine Learning Engineer,"150000,0",USD,"150000,0",US,Híbrido,US,Grande,Cientista de Dados
+5,2020,Junior,Tempo integral,Data Analyst,"72000,0",USD,"72000,0",US,Remoto,US,Grande,Analista de Dados
+6,2020,Senior,Tempo integral,Lead Data Scientist,"190000,0",USD,"190000,0",US,Remoto,US,Pequena,Cientista de Dados
+7,2020,Pleno,Tempo integral,Data Scientist,"11000000,0",HUF,"35735,0",HU,Híbrido,HU,Grande,Cientista de Dados
+8,2020,Pleno,Tempo integral,Business Data Analyst,"135000,0",USD,"135000,0",US,Remoto,US,Grande,Analista de Dados
+9,2020,Senior,Tempo integral,Lead Data Engineer,"125000,0",USD,"125000,0",NZ,Híbrido,NZ,Pequena,Engenheiro de Dados
+10,2020,Junior,Tempo integral,Data Scientist,"45000,0",EUR,"51321,0",FR,Presencial,FR,Pequena,Cientista de Dados
+11,2020,Pleno,Tempo integral,Data Scientist,"3000000,0",INR,"40481,0",IN,Presencial,IN,Grande,Cientista de Dados
+12,2020,Junior,Tempo integral,Data Scientist,"35000,0",EUR,"39916,0",FR,Presencial,FR,Média,Cientista de Dados
+13,2020,Pleno,Tempo integral,Lead Data Analyst,"87000,0",USD,"87000,0",US,Remoto,US,Grande,Analista de Dados
+14,2020,Pleno,Tempo integral,Data Analyst,"85000,0",USD,"85000,0",US,Remoto,US,Grande,Analista de Dados
+15,2020,Pleno,Tempo integral,Data Analyst,"8000,0",USD,"8000,0",PK,Híbrido,PK,Grande,Analista de Dados
+16,2020,Junior,Tempo integral,Data Engineer,"4450000,0",JPY,"41689,0",JP,Remoto,JP,Pequena,Engenheiro de Dados
+17,2020,Senior,Tempo integral,Big Data Engineer,"100000,0",EUR,"114047,0",PL,Remoto,GB,Pequena,Engenheiro de Dados
+18,2020,Junior,Tempo integral,Data Science Consultant,"423000,0",INR,"5707,0",IN,Híbrido,IN,Média,Cientista de Dados
+19,2020,Pleno,Tempo integral,Lead Data Engineer,"56000,0",USD,"56000,0",PT,Remoto,US,Média,Engenheiro de Dados
+20,2020,Pleno,Tempo integral,Machine Learning Engineer,"299000,0",CNY,"43331,0",CN,Presencial,CN,Média,Cientista de Dados
+21,2020,Pleno,Tempo integral,Product Data Analyst,"450000,0",INR,"6072,0",IN,Remoto,IN,Grande,Analista de Dados
+22,2020,Senior,Tempo integral,Data Engineer,"42000,0",EUR,"47899,0",GR,Híbrido,GR,Grande,Engenheiro de Dados
+23,2020,Pleno,Tempo integral,BI Data Analyst,"98000,0",USD,"98000,0",US,Presencial,US,Média,Analista de Dados
+24,2020,Pleno,Tempo integral,Lead Data Scientist,"115000,0",USD,"115000,0",AE,Presencial,AE,Grande,Cientista de Dados
+25,2020,Executive,Tempo integral,Director of Data Science,"325000,0",USD,"325000,0",US,Remoto,US,Grande,Cientista de Dados
+26,2020,Junior,Tempo integral,Research Scientist,"42000,0",USD,"42000,0",NL,Híbrido,NL,Grande,Cientista de Dados
+27,2020,Senior,Tempo integral,Data Engineer,"720000,0",MXN,"33511,0",MX,Presencial,MX,Pequena,Engenheiro de Dados
+28,2020,Junior,Contrato,Business Data Analyst,"100000,0",USD,"100000,0",US,Remoto,US,Grande,Analista de Dados
+29,2020,Senior,Tempo integral,Machine Learning Manager,"157000,0",CAD,"117104,0",CA,Híbrido,CA,Grande,Cientista de Dados
+30,2020,Pleno,Tempo integral,Data Engineering Manager,"51999,0",EUR,"59303,0",DE,Remoto,DE,Pequena,Engenheiro de Dados
+31,2020,Junior,Tempo integral,Big Data Engineer,"70000,0",USD,"70000,0",US,Remoto,US,Grande,Engenheiro de Dados
+32,2020,Senior,Tempo integral,Data Scientist,"60000,0",EUR,"68428,0",GR,Remoto,US,Grande,Cientista de Dados
+33,2020,Pleno,Tempo integral,Research Scientist,"450000,0",USD,"450000,0",US,Presencial,US,Média,Cientista de Dados
+34,2020,Pleno,Tempo integral,Data Analyst,"41000,0",EUR,"46759,0",FR,Híbrido,FR,Grande,Analista de Dados
+35,2020,Pleno,Tempo integral,Data Engineer,"65000,0",EUR,"74130,0",AT,Híbrido,AT,Grande,Engenheiro de Dados
+36,2020,Pleno,Tempo integral,Data Science Consultant,"103000,0",USD,"103000,0",US,Remoto,US,Grande,Cientista de Dados
+37,2020,Junior,Tempo integral,Machine Learning Engineer,"250000,0",USD,"250000,0",US,Híbrido,US,Grande,Cientista de Dados
+38,2020,Junior,Tempo integral,Data Analyst,"10000,0",USD,"10000,0",NG,Remoto,NG,Pequena,Analista de Dados
+39,2020,Junior,Tempo integral,Machine Learning Engineer,"138000,0",USD,"138000,0",US,Remoto,US,Pequena,Cientista de Dados
+40,2020,Pleno,Tempo integral,Data Scientist,"45760,0",USD,"45760,0",PH,Remoto,US,Pequena,Cientista de Dados
+41,2020,Executive,Tempo integral,Data Engineering Manager,"70000,0",EUR,"79833,0",ES,Híbrido,ES,Grande,Engenheiro de Dados
+42,2020,Pleno,Tempo integral,Machine Learning Infrastructure Engineer,"44000,0",EUR,"50180,0",PT,Presencial,PT,Média,Cientista de Dados
+43,2020,Pleno,Tempo integral,Data Engineer,"106000,0",USD,"106000,0",US,Remoto,US,Grande,Engenheiro de Dados
+44,2020,Pleno,Tempo integral,Data Engineer,"88000,0",GBP,"112872,0",GB,Híbrido,GB,Grande,Engenheiro de Dados
+45,2020,Junior,Meio período,ML Engineer,"14000,0",EUR,"15966,0",DE,Remoto,DE,Pequena,Engenheiro de Dados
+46,2020,Pleno,Tempo integral,Data Scientist,"60000,0",GBP,"76958,0",GB,Remoto,GB,Pequena,Cientista de Dados
+47,2020,Senior,Tempo integral,Data Engineer,"188000,0",USD,"188000,0",US,Remoto,US,Grande,Engenheiro de Dados
+48,2020,Pleno,Tempo integral,Data Scientist,"105000,0",USD,"105000,0",US,Remoto,US,Grande,Cientista de Dados
+49,2020,Pleno,Tempo integral,Data Engineer,"61500,0",EUR,"70139,0",FR,Híbrido,FR,Grande,Engenheiro de Dados
+50,2020,Junior,Tempo integral,Data Analyst,"450000,0",INR,"6072,0",IN,Presencial,IN,Pequena,Analista de Dados
+51,2020,Junior,Tempo integral,Data Analyst,"91000,0",USD,"91000,0",US,Remoto,US,Grande,Analista de Dados
+52,2020,Junior,Tempo integral,AI Scientist,"300000,0",DKK,"45896,0",DK,Híbrido,DK,Pequena,Cientista de Dados
+53,2020,Junior,Tempo integral,Data Engineer,"48000,0",EUR,"54742,0",PK,Remoto,DE,Grande,Engenheiro de Dados
+54,2020,Senior,Freelancer,Computer Vision Engineer,"60000,0",USD,"60000,0",RU,Remoto,US,Pequena,Engenheiro de Dados
+55,2020,Senior,Tempo integral,Principal Data Scientist,"130000,0",EUR,"148261,0",DE,Remoto,DE,Média,Cientista de Dados
+56,2020,Pleno,Tempo integral,Data Scientist,"34000,0",EUR,"38776,0",ES,Remoto,ES,Média,Cientista de Dados
+57,2020,Pleno,Tempo integral,Data Scientist,"118000,0",USD,"118000,0",US,Remoto,US,Média,Cientista de Dados
+58,2020,Senior,Tempo integral,Data Scientist,"120000,0",USD,"120000,0",US,Híbrido,US,Grande,Cientista de Dados
+59,2020,Pleno,Tempo integral,Data Scientist,"138350,0",USD,"138350,0",US,Remoto,US,Média,Cientista de Dados
+60,2020,Pleno,Tempo integral,Data Engineer,"110000,0",USD,"110000,0",US,Remoto,US,Grande,Engenheiro de Dados
+61,2020,Pleno,Tempo integral,Data Engineer,"130800,0",USD,"130800,0",ES,Remoto,US,Média,Engenheiro de Dados
+62,2020,Junior,Meio período,Data Scientist,"19000,0",EUR,"21669,0",IT,Híbrido,IT,Pequena,Cientista de Dados
+63,2020,Senior,Tempo integral,Data Scientist,"412000,0",USD,"412000,0",US,Remoto,US,Grande,Cientista de Dados
+64,2020,Senior,Tempo integral,Machine Learning Engineer,"40000,0",EUR,"45618,0",HR,Remoto,HR,Pequena,Cientista de Dados
+65,2020,Junior,Tempo integral,Data Scientist,"55000,0",EUR,"62726,0",DE,Híbrido,DE,Pequena,Cientista de Dados
+66,2020,Junior,Tempo integral,Data Scientist,"43200,0",EUR,"49268,0",DE,Presencial,DE,Pequena,Cientista de Dados
+67,2020,Senior,Tempo integral,Data Science Manager,"190200,0",USD,"190200,0",US,Remoto,US,Média,Cientista de Dados
+68,2020,Junior,Tempo integral,Data Scientist,"105000,0",USD,"105000,0",US,Remoto,US,Pequena,Cientista de Dados
+69,2020,Senior,Tempo integral,Data Scientist,"80000,0",EUR,"91237,0",AT,Presencial,AT,Pequena,Cientista de Dados
+70,2020,Pleno,Tempo integral,Data Scientist,"55000,0",EUR,"62726,0",FR,Híbrido,LU,Pequena,Cientista de Dados
+71,2020,Pleno,Tempo integral,Data Scientist,"37000,0",EUR,"42197,0",FR,Híbrido,FR,Pequena,Cientista de Dados
+72,2021,Junior,Tempo integral,Research Scientist,"60000,0",GBP,"82528,0",GB,Híbrido,GB,Grande,Cientista de Dados
+73,2021,Executive,Tempo integral,BI Data Analyst,"150000,0",USD,"150000,0",IN,Remoto,US,Grande,Analista de Dados
+74,2021,Executive,Tempo integral,Head of Data,"235000,0",USD,"235000,0",US,Remoto,US,Grande,Gerente de Dados
+75,2021,Senior,Tempo integral,Data Scientist,"45000,0",EUR,"53192,0",FR,Híbrido,FR,Grande,Cientista de Dados
+76,2021,Pleno,Tempo integral,BI Data Analyst,"100000,0",USD,"100000,0",US,Remoto,US,Média,Analista de Dados
+77,2021,Pleno,Meio período,3D Computer Vision Researcher,"400000,0",INR,"5409,0",IN,Híbrido,IN,Média,Cientista de Dados
+78,2021,Pleno,Contrato,ML Engineer,"270000,0",USD,"270000,0",US,Remoto,US,Grande,Engenheiro de Dados
+79,2021,Junior,Tempo integral,Data Analyst,"80000,0",USD,"80000,0",US,Remoto,US,Média,Analista de Dados
+80,2021,Senior,Tempo integral,Data Analytics Engineer,"67000,0",EUR,"79197,0",DE,Remoto,DE,Grande,Analista de Dados
+81,2021,Pleno,Tempo integral,Data Engineer,"140000,0",USD,"140000,0",US,Remoto,US,Grande,Engenheiro de Dados
+82,2021,Pleno,Tempo integral,Applied Data Scientist,"68000,0",CAD,"54238,0",GB,Híbrido,CA,Grande,Cientista de Dados
+83,2021,Pleno,Tempo integral,Machine Learning Engineer,"40000,0",EUR,"47282,0",ES,Remoto,ES,Pequena,Cientista de Dados
+84,2021,Executive,Tempo integral,Director of Data Science,"130000,0",EUR,"153667,0",IT,Remoto,PL,Grande,Cientista de Dados
+85,2021,Pleno,Tempo integral,Data Engineer,"110000,0",PLN,"28476,0",PL,Remoto,PL,Grande,Engenheiro de Dados
+86,2021,Junior,Tempo integral,Data Analyst,"50000,0",EUR,"59102,0",FR,Híbrido,FR,Média,Analista de Dados
+87,2021,Pleno,Tempo integral,Data Analytics Engineer,"110000,0",USD,"110000,0",US,Remoto,US,Grande,Analista de Dados
+88,2021,Senior,Tempo integral,Lead Data Analyst,"170000,0",USD,"170000,0",US,Remoto,US,Grande,Analista de Dados
+89,2021,Senior,Tempo integral,Data Analyst,"80000,0",USD,"80000,0",BG,Remoto,US,Pequena,Analista de Dados
+90,2021,Senior,Tempo integral,Marketing Data Analyst,"75000,0",EUR,"88654,0",GR,Remoto,DK,Grande,Analista de Dados
+91,2021,Junior,Tempo integral,Data Science Consultant,"65000,0",EUR,"76833,0",DE,Remoto,DE,Pequena,Cientista de Dados
+92,2021,Pleno,Tempo integral,Lead Data Analyst,"1450000,0",INR,"19609,0",IN,Remoto,IN,Grande,Analista de Dados
+93,2021,Senior,Tempo integral,Lead Data Engineer,"276000,0",USD,"276000,0",US,Presencial,US,Grande,Engenheiro de Dados
+94,2021,Junior,Tempo integral,Data Scientist,"2200000,0",INR,"29751,0",IN,Híbrido,IN,Grande,Cientista de Dados
+95,2021,Pleno,Tempo integral,Cloud Data Engineer,"120000,0",SGD,"89294,0",SG,Híbrido,SG,Grande,Engenheiro de Dados
+96,2021,Junior,Meio período,AI Scientist,"12000,0",USD,"12000,0",BR,Remoto,US,Pequena,Cientista de Dados
+97,2021,Pleno,Tempo integral,Financial Data Analyst,"450000,0",USD,"450000,0",US,Remoto,US,Grande,Analista de Dados
+98,2021,Junior,Tempo integral,Computer Vision Software Engineer,"70000,0",USD,"70000,0",US,Remoto,US,Média,Engenheiro de Dados
+99,2021,Pleno,Tempo integral,Computer Vision Software Engineer,"81000,0",EUR,"95746,0",DE,Remoto,US,Pequena,Engenheiro de Dados
+100,2021,Pleno,Tempo integral,Data Analyst,"75000,0",USD,"75000,0",US,Presencial,US,Grande,Analista de Dados
+101,2021,Senior,Tempo integral,Data Engineer,"150000,0",USD,"150000,0",US,Remoto,US,Grande,Engenheiro de Dados
+102,2021,Pleno,Tempo integral,BI Data Analyst,"11000000,0",HUF,"36259,0",HU,Híbrido,US,Grande,Analista de Dados
+103,2021,Pleno,Tempo integral,Data Analyst,"62000,0",USD,"62000,0",US,Presencial,US,Grande,Analista de Dados
+104,2021,Pleno,Tempo integral,Data Scientist,"73000,0",USD,"73000,0",US,Presencial,US,Grande,Cientista de Dados
+105,2021,Pleno,Tempo integral,Data Analyst,"37456,0",GBP,"51519,0",GB,Híbrido,GB,Grande,Analista de Dados
+106,2021,Pleno,Tempo integral,Research Scientist,"235000,0",CAD,"187442,0",CA,Remoto,CA,Grande,Cientista de Dados
+107,2021,Senior,Tempo integral,Data Engineer,"115000,0",USD,"115000,0",US,Remoto,US,Pequena,Engenheiro de Dados
+108,2021,Senior,Tempo integral,Data Engineer,"150000,0",USD,"150000,0",US,Remoto,US,Média,Engenheiro de Dados
+109,2021,Junior,Tempo integral,Data Engineer,"2250000,0",INR,"30428,0",IN,Remoto,IN,Grande,Engenheiro de Dados
+110,2021,Senior,Tempo integral,Machine Learning Engineer,"80000,0",EUR,"94564,0",DE,Híbrido,DE,Grande,Cientista de Dados
+111,2021,Senior,Tempo integral,Director of Data Engineering,"82500,0",GBP,"113476,0",GB,Remoto,GB,Média,Engenheiro de Dados
+112,2021,Senior,Tempo integral,Lead Data Engineer,"75000,0",GBP,"103160,0",GB,Remoto,GB,Pequena,Engenheiro de Dados
+113,2021,Junior,Meio período,AI Scientist,"12000,0",USD,"12000,0",PK,Remoto,US,Média,Cientista de Dados
+114,2021,Pleno,Tempo integral,Data Engineer,"38400,0",EUR,"45391,0",NL,Remoto,NL,Grande,Engenheiro de Dados
+115,2021,Junior,Tempo integral,Machine Learning Scientist,"225000,0",USD,"225000,0",US,Remoto,US,Grande,Cientista de Dados
+116,2021,Pleno,Tempo integral,Data Scientist,"50000,0",USD,"50000,0",NG,Remoto,NG,Grande,Cientista de Dados
+117,2021,Pleno,Tempo integral,Data Science Engineer,"34000,0",EUR,"40189,0",GR,Remoto,GR,Média,Cientista de Dados
+118,2021,Junior,Tempo integral,Data Analyst,"90000,0",USD,"90000,0",US,Remoto,US,Pequena,Analista de Dados
+119,2021,Pleno,Tempo integral,Data Engineer,"200000,0",USD,"200000,0",US,Remoto,US,Grande,Engenheiro de Dados
+120,2021,Pleno,Tempo integral,Big Data Engineer,"60000,0",USD,"60000,0",ES,Híbrido,RO,Média,Engenheiro de Dados
+121,2021,Senior,Tempo integral,Principal Data Engineer,"200000,0",USD,"200000,0",US,Remoto,US,Média,Engenheiro de Dados
+122,2021,Junior,Tempo integral,Data Analyst,"50000,0",USD,"50000,0",US,Remoto,US,Média,Analista de Dados
+123,2021,Junior,Tempo integral,Applied Data Scientist,"80000,0",GBP,"110037,0",GB,Presencial,GB,Grande,Cientista de Dados
+124,2021,Junior,Meio período,Data Analyst,"8760,0",EUR,"10354,0",ES,Híbrido,ES,Média,Analista de Dados
+125,2021,Pleno,Tempo integral,Principal Data Scientist,"151000,0",USD,"151000,0",US,Remoto,US,Grande,Cientista de Dados
+126,2021,Senior,Tempo integral,Machine Learning Scientist,"120000,0",USD,"120000,0",US,Híbrido,US,Pequena,Cientista de Dados
+127,2021,Pleno,Tempo integral,Data Scientist,"700000,0",INR,"9466,0",IN,Presencial,IN,Pequena,Cientista de Dados
+128,2021,Junior,Tempo integral,Machine Learning Engineer,"20000,0",USD,"20000,0",IN,Remoto,IN,Pequena,Cientista de Dados
+129,2021,Senior,Tempo integral,Lead Data Scientist,"3000000,0",INR,"40570,0",IN,Híbrido,IN,Grande,Cientista de Dados
+130,2021,Junior,Tempo integral,Machine Learning Developer,"100000,0",USD,"100000,0",IQ,Híbrido,IQ,Pequena,Cientista de Dados
+131,2021,Junior,Tempo integral,Data Scientist,"42000,0",EUR,"49646,0",FR,Híbrido,FR,Média,Cientista de Dados
+132,2021,Pleno,Tempo integral,Applied Machine Learning Scientist,"38400,0",USD,"38400,0",VN,Remoto,US,Média,Cientista de Dados
+133,2021,Senior,Tempo integral,Computer Vision Engineer,"24000,0",USD,"24000,0",BR,Remoto,BR,Média,Engenheiro de Dados
+134,2021,Junior,Tempo integral,Data Scientist,"100000,0",USD,"100000,0",US,Presencial,US,Pequena,Cientista de Dados
+135,2021,Pleno,Tempo integral,Data Analyst,"90000,0",USD,"90000,0",US,Remoto,US,Média,Analista de Dados
+136,2021,Pleno,Tempo integral,ML Engineer,"7000000,0",JPY,"63711,0",JP,Híbrido,JP,Pequena,Engenheiro de Dados
+137,2021,Pleno,Tempo integral,ML Engineer,"8500000,0",JPY,"77364,0",JP,Híbrido,JP,Pequena,Engenheiro de Dados
+138,2021,Senior,Tempo integral,Principal Data Scientist,"220000,0",USD,"220000,0",US,Presencial,US,Grande,Cientista de Dados
+139,2021,Junior,Tempo integral,Data Scientist,"80000,0",USD,"80000,0",US,Remoto,US,Média,Cientista de Dados
+140,2021,Pleno,Tempo integral,Data Analyst,"135000,0",USD,"135000,0",US,Remoto,US,Grande,Analista de Dados
+141,2021,Senior,Tempo integral,Data Science Manager,"240000,0",USD,"240000,0",US,Presencial,US,Grande,Cientista de Dados
+142,2021,Senior,Tempo integral,Data Engineering Manager,"150000,0",USD,"150000,0",US,Presencial,US,Grande,Engenheiro de Dados
+143,2021,Pleno,Tempo integral,Data Scientist,"82500,0",USD,"82500,0",US,Remoto,US,Pequena,Cientista de Dados
+144,2021,Pleno,Tempo integral,Data Engineer,"100000,0",USD,"100000,0",US,Remoto,US,Grande,Engenheiro de Dados
+145,2021,Senior,Tempo integral,Machine Learning Engineer,"70000,0",EUR,"82744,0",BE,Híbrido,BE,Média,Cientista de Dados
+146,2021,Pleno,Tempo integral,Research Scientist,"53000,0",EUR,"62649,0",FR,Híbrido,FR,Média,Cientista de Dados
+147,2021,Pleno,Tempo integral,Data Engineer,"90000,0",USD,"90000,0",US,Remoto,US,Grande,Engenheiro de Dados
+148,2021,Senior,Tempo integral,Data Engineering Manager,"153000,0",USD,"153000,0",US,Remoto,US,Grande,Engenheiro de Dados
+149,2021,Senior,Tempo integral,Cloud Data Engineer,"160000,0",USD,"160000,0",BR,Remoto,US,Pequena,Engenheiro de Dados
+150,2021,Senior,Tempo integral,Director of Data Science,"168000,0",USD,"168000,0",JP,Presencial,JP,Pequena,Cientista de Dados
+151,2021,Pleno,Tempo integral,Data Scientist,"150000,0",USD,"150000,0",US,Remoto,US,Média,Cientista de Dados
+152,2021,Pleno,Tempo integral,Data Scientist,"95000,0",CAD,"75774,0",CA,Remoto,CA,Grande,Cientista de Dados
+153,2021,Junior,Tempo integral,Data Scientist,"13400,0",USD,"13400,0",UA,Remoto,UA,Grande,Cientista de Dados
+154,2021,Senior,Tempo integral,Data Science Manager,"144000,0",USD,"144000,0",US,Remoto,US,Grande,Cientista de Dados
+155,2021,Senior,Tempo integral,Data Science Engineer,"159500,0",CAD,"127221,0",CA,Híbrido,CA,Grande,Cientista de Dados
+156,2021,Pleno,Tempo integral,Data Scientist,"160000,0",SGD,"119059,0",SG,Remoto,IL,Média,Cientista de Dados
+157,2021,Pleno,Tempo integral,Applied Machine Learning Scientist,"423000,0",USD,"423000,0",US,Híbrido,US,Grande,Cientista de Dados
+158,2021,Senior,Tempo integral,Data Analytics Manager,"120000,0",USD,"120000,0",US,Remoto,US,Média,Analista de Dados
+159,2021,Junior,Tempo integral,Machine Learning Engineer,"125000,0",USD,"125000,0",US,Remoto,US,Pequena,Cientista de Dados
+160,2021,Executive,Tempo integral,Head of Data,"230000,0",USD,"230000,0",RU,Híbrido,RU,Grande,Gerente de Dados
+161,2021,Executive,Tempo integral,Head of Data Science,"85000,0",USD,"85000,0",RU,Presencial,RU,Média,Cientista de Dados
+162,2021,Pleno,Tempo integral,Data Engineer,"24000,0",EUR,"28369,0",MT,Híbrido,MT,Grande,Engenheiro de Dados
+163,2021,Junior,Tempo integral,Data Science Consultant,"54000,0",EUR,"63831,0",DE,Híbrido,DE,Grande,Cientista de Dados
+164,2021,Executive,Tempo integral,Director of Data Science,"110000,0",EUR,"130026,0",DE,Híbrido,DE,Média,Cientista de Dados
+165,2021,Senior,Tempo integral,Data Specialist,"165000,0",USD,"165000,0",US,Remoto,US,Grande,Gerente de Dados
+166,2021,Junior,Tempo integral,Data Engineer,"80000,0",USD,"80000,0",US,Remoto,US,Grande,Engenheiro de Dados
+167,2021,Executive,Tempo integral,Director of Data Science,"250000,0",USD,"250000,0",US,Presencial,US,Grande,Cientista de Dados
+168,2021,Junior,Tempo integral,BI Data Analyst,"55000,0",USD,"55000,0",US,Híbrido,US,Pequena,Analista de Dados
+169,2021,Pleno,Tempo integral,Data Architect,"150000,0",USD,"150000,0",US,Remoto,US,Grande,Arquiteto de Dados
+170,2021,Pleno,Tempo integral,Data Architect,"170000,0",USD,"170000,0",US,Remoto,US,Grande,Arquiteto de Dados
+171,2021,Pleno,Tempo integral,Data Engineer,"60000,0",GBP,"82528,0",GB,Remoto,GB,Grande,Engenheiro de Dados
+172,2021,Junior,Tempo integral,Data Analyst,"60000,0",USD,"60000,0",US,Remoto,US,Pequena,Analista de Dados
+173,2021,Senior,Tempo integral,Principal Data Scientist,"235000,0",USD,"235000,0",US,Remoto,US,Grande,Cientista de Dados
+174,2021,Senior,Tempo integral,Research Scientist,"51400,0",EUR,"60757,0",PT,Híbrido,PT,Grande,Cientista de Dados
+175,2021,Senior,Tempo integral,Data Engineering Manager,"174000,0",USD,"174000,0",US,Remoto,US,Grande,Engenheiro de Dados
+176,2021,Pleno,Tempo integral,Data Scientist,"58000,0",MXN,"2859,0",MX,Presencial,MX,Pequena,Cientista de Dados
+177,2021,Pleno,Tempo integral,Data Scientist,"30400000,0",CLP,"40038,0",CL,Remoto,CL,Grande,Cientista de Dados
+178,2021,Junior,Tempo integral,Machine Learning Engineer,"81000,0",USD,"81000,0",US,Híbrido,US,Pequena,Cientista de Dados
+179,2021,Pleno,Tempo integral,Data Scientist,"420000,0",INR,"5679,0",IN,Remoto,US,Pequena,Cientista de Dados
+180,2021,Pleno,Tempo integral,Big Data Engineer,"1672000,0",INR,"22611,0",IN,Presencial,IN,Grande,Engenheiro de Dados
+181,2021,Pleno,Tempo integral,Data Scientist,"76760,0",EUR,"90734,0",DE,Híbrido,DE,Grande,Cientista de Dados
+182,2021,Pleno,Tempo integral,Data Engineer,"22000,0",EUR,"26005,0",RO,Presencial,US,Grande,Engenheiro de Dados
+183,2021,Senior,Tempo integral,Finance Data Analyst,"45000,0",GBP,"61896,0",GB,Híbrido,GB,Grande,Analista de Dados
+184,2021,Pleno,Freelancer,Machine Learning Scientist,"12000,0",USD,"12000,0",PK,Híbrido,PK,Média,Cientista de Dados
+185,2021,Pleno,Tempo integral,Data Engineer,"4000,0",USD,"4000,0",IR,Remoto,IR,Média,Engenheiro de Dados
+186,2021,Senior,Tempo integral,Data Analytics Engineer,"50000,0",USD,"50000,0",VN,Remoto,GB,Média,Analista de Dados
+187,2021,Executive,Tempo integral,Data Science Consultant,"59000,0",EUR,"69741,0",FR,Remoto,ES,Pequena,Cientista de Dados
+188,2021,Senior,Tempo integral,Data Engineer,"65000,0",EUR,"76833,0",RO,Híbrido,GB,Pequena,Engenheiro de Dados
+189,2021,Pleno,Tempo integral,Machine Learning Engineer,"74000,0",USD,"74000,0",JP,Híbrido,JP,Pequena,Cientista de Dados
+190,2021,Senior,Tempo integral,Data Science Manager,"152000,0",USD,"152000,0",US,Remoto,FR,Grande,Cientista de Dados
+191,2021,Junior,Tempo integral,Machine Learning Engineer,"21844,0",USD,"21844,0",CO,Híbrido,CO,Média,Cientista de Dados
+192,2021,Pleno,Tempo integral,Big Data Engineer,"18000,0",USD,"18000,0",MD,Presencial,MD,Pequena,Engenheiro de Dados
+193,2021,Senior,Tempo integral,Data Science Manager,"174000,0",USD,"174000,0",US,Remoto,US,Grande,Cientista de Dados
+194,2021,Senior,Tempo integral,Research Scientist,"120500,0",CAD,"96113,0",CA,Híbrido,CA,Grande,Cientista de Dados
+195,2021,Pleno,Tempo integral,Data Scientist,"147000,0",USD,"147000,0",US,Híbrido,US,Grande,Cientista de Dados
+196,2021,Junior,Tempo integral,BI Data Analyst,"9272,0",USD,"9272,0",KE,Remoto,KE,Pequena,Analista de Dados
+197,2021,Senior,Tempo integral,Machine Learning Engineer,"1799997,0",INR,"24342,0",IN,Remoto,IN,Grande,Cientista de Dados
+198,2021,Senior,Tempo integral,Data Science Manager,"4000000,0",INR,"54094,0",IN,Híbrido,US,Grande,Cientista de Dados
+199,2021,Junior,Tempo integral,Data Science Consultant,"90000,0",USD,"90000,0",US,Remoto,US,Pequena,Cientista de Dados
+200,2021,Pleno,Tempo integral,Data Scientist,"52000,0",EUR,"61467,0",DE,Híbrido,AT,Média,Cientista de Dados
+201,2021,Senior,Tempo integral,Machine Learning Infrastructure Engineer,"195000,0",USD,"195000,0",US,Remoto,US,Média,Cientista de Dados
+202,2021,Pleno,Tempo integral,Data Scientist,"32000,0",EUR,"37825,0",ES,Remoto,ES,Grande,Cientista de Dados
+203,2021,Senior,Tempo integral,Research Scientist,"50000,0",USD,"50000,0",FR,Remoto,US,Pequena,Cientista de Dados
+204,2021,Pleno,Tempo integral,Data Scientist,"160000,0",USD,"160000,0",US,Remoto,US,Grande,Cientista de Dados
+205,2021,Pleno,Tempo integral,Data Scientist,"69600,0",BRL,"12901,0",BR,Presencial,BR,Pequena,Cientista de Dados
+206,2021,Senior,Tempo integral,Machine Learning Engineer,"200000,0",USD,"200000,0",US,Remoto,US,Grande,Cientista de Dados
+207,2021,Senior,Tempo integral,Data Engineer,"165000,0",USD,"165000,0",US,Presencial,US,Média,Engenheiro de Dados
+208,2021,Pleno,Freelancer,Data Engineer,"20000,0",USD,"20000,0",IT,Presencial,US,Grande,Engenheiro de Dados
+209,2021,Senior,Tempo integral,Data Analytics Manager,"120000,0",USD,"120000,0",US,Presencial,US,Grande,Analista de Dados
+210,2021,Pleno,Tempo integral,Machine Learning Engineer,"21000,0",EUR,"24823,0",SI,Híbrido,SI,Grande,Cientista de Dados
+211,2021,Pleno,Tempo integral,Research Scientist,"48000,0",EUR,"56738,0",FR,Híbrido,FR,Pequena,Cientista de Dados
+212,2021,Pleno,Tempo integral,Data Engineer,"48000,0",GBP,"66022,0",HK,Híbrido,GB,Pequena,Engenheiro de Dados
+213,2021,Junior,Tempo integral,Big Data Engineer,"435000,0",INR,"5882,0",IN,Presencial,CH,Grande,Engenheiro de Dados
+214,2021,Junior,Tempo integral,Machine Learning Engineer,"21000,0",EUR,"24823,0",DE,Híbrido,DE,Média,Cientista de Dados
+215,2021,Senior,Tempo integral,Principal Data Engineer,"185000,0",USD,"185000,0",US,Remoto,US,Grande,Engenheiro de Dados
+216,2021,Junior,Meio período,Computer Vision Engineer,"180000,0",DKK,"28609,0",DK,Híbrido,DK,Pequena,Engenheiro de Dados
+217,2021,Pleno,Tempo integral,Data Scientist,"76760,0",EUR,"90734,0",DE,Híbrido,DE,Grande,Cientista de Dados
+218,2021,Pleno,Tempo integral,Machine Learning Engineer,"75000,0",EUR,"88654,0",BE,Remoto,BE,Média,Cientista de Dados
+219,2021,Senior,Tempo integral,Data Analytics Manager,"140000,0",USD,"140000,0",US,Remoto,US,Grande,Analista de Dados
+220,2021,Pleno,Tempo integral,Machine Learning Engineer,"180000,0",PLN,"46597,0",PL,Remoto,PL,Grande,Cientista de Dados
+221,2021,Pleno,Tempo integral,Data Scientist,"85000,0",GBP,"116914,0",GB,Híbrido,GB,Grande,Cientista de Dados
+222,2021,Pleno,Tempo integral,Data Scientist,"2500000,0",INR,"33808,0",IN,Presencial,IN,Média,Cientista de Dados
+223,2021,Pleno,Tempo integral,Data Scientist,"40900,0",GBP,"56256,0",GB,Híbrido,GB,Grande,Cientista de Dados
+224,2021,Senior,Tempo integral,Machine Learning Scientist,"225000,0",USD,"225000,0",US,Remoto,CA,Grande,Cientista de Dados
+225,2021,Executive,Contrato,Principal Data Scientist,"416000,0",USD,"416000,0",US,Remoto,US,Pequena,Cientista de Dados
+226,2021,Senior,Tempo integral,Data Scientist,"110000,0",CAD,"87738,0",CA,Remoto,CA,Pequena,Cientista de Dados
+227,2021,Pleno,Tempo integral,Data Scientist,"75000,0",EUR,"88654,0",DE,Híbrido,DE,Grande,Cientista de Dados
+228,2021,Senior,Tempo integral,Data Scientist,"135000,0",USD,"135000,0",US,Presencial,US,Grande,Cientista de Dados
+229,2021,Senior,Tempo integral,Data Analyst,"90000,0",CAD,"71786,0",CA,Remoto,CA,Média,Analista de Dados
+230,2021,Junior,Tempo integral,Big Data Engineer,"1200000,0",INR,"16228,0",IN,Remoto,IN,Grande,Engenheiro de Dados
+231,2021,Senior,Tempo integral,ML Engineer,"256000,0",USD,"256000,0",US,Remoto,US,Pequena,Engenheiro de Dados
+232,2021,Senior,Tempo integral,Director of Data Engineering,"200000,0",USD,"200000,0",US,Remoto,US,Grande,Engenheiro de Dados
+233,2021,Senior,Tempo integral,Data Analyst,"200000,0",USD,"200000,0",US,Remoto,US,Grande,Analista de Dados
+234,2021,Pleno,Tempo integral,Data Architect,"180000,0",USD,"180000,0",US,Remoto,US,Grande,Arquiteto de Dados
+235,2021,Pleno,Tempo integral,Head of Data Science,"110000,0",USD,"110000,0",US,Presencial,US,Pequena,Cientista de Dados
+236,2021,Pleno,Tempo integral,Research Scientist,"80000,0",CAD,"63810,0",CA,Remoto,CA,Média,Cientista de Dados
+237,2021,Pleno,Tempo integral,Data Scientist,"39600,0",EUR,"46809,0",ES,Remoto,ES,Média,Cientista de Dados
+238,2021,Junior,Tempo integral,Data Scientist,"4000,0",USD,"4000,0",VN,Presencial,VN,Média,Cientista de Dados
+239,2021,Junior,Tempo integral,Data Engineer,"1600000,0",INR,"21637,0",IN,Híbrido,IN,Média,Engenheiro de Dados
+240,2021,Senior,Tempo integral,Data Scientist,"130000,0",CAD,"103691,0",CA,Remoto,CA,Grande,Cientista de Dados
+241,2021,Pleno,Tempo integral,Data Analyst,"80000,0",USD,"80000,0",US,Remoto,US,Grande,Analista de Dados
+242,2021,Pleno,Tempo integral,Data Engineer,"110000,0",USD,"110000,0",US,Remoto,US,Grande,Engenheiro de Dados
+243,2021,Senior,Tempo integral,Data Scientist,"165000,0",USD,"165000,0",US,Remoto,US,Grande,Cientista de Dados
+244,2021,Junior,Tempo integral,AI Scientist,"1335000,0",INR,"18053,0",IN,Remoto,AS,Pequena,Cientista de Dados
+245,2021,Pleno,Tempo integral,Data Engineer,"52500,0",GBP,"72212,0",GB,Híbrido,GB,Grande,Engenheiro de Dados
+246,2021,Junior,Tempo integral,Data Scientist,"31000,0",EUR,"36643,0",FR,Híbrido,FR,Grande,Cientista de Dados
+247,2021,Pleno,Tempo integral,Data Engineer,"108000,0",TRY,"12103,0",TR,Presencial,TR,Média,Engenheiro de Dados
+248,2021,Senior,Tempo integral,Data Engineer,"70000,0",GBP,"96282,0",GB,Híbrido,GB,Grande,Engenheiro de Dados
+249,2021,Senior,Tempo integral,Principal Data Analyst,"170000,0",USD,"170000,0",US,Remoto,US,Média,Analista de Dados
+250,2021,Pleno,Tempo integral,Data Scientist,"115000,0",USD,"115000,0",US,Híbrido,US,Grande,Cientista de Dados
+251,2021,Junior,Tempo integral,Data Scientist,"90000,0",USD,"90000,0",US,Remoto,US,Pequena,Cientista de Dados
+252,2021,Executive,Tempo integral,Principal Data Engineer,"600000,0",USD,"600000,0",US,Remoto,US,Grande,Engenheiro de Dados
+253,2021,Junior,Tempo integral,Data Scientist,"2100000,0",INR,"28399,0",IN,Remoto,IN,Média,Cientista de Dados
+254,2021,Pleno,Tempo integral,Data Analyst,"93000,0",USD,"93000,0",US,Remoto,US,Grande,Analista de Dados
+255,2021,Senior,Tempo integral,Big Data Architect,"125000,0",CAD,"99703,0",CA,Híbrido,CA,Média,Arquiteto de Dados
+256,2021,Pleno,Tempo integral,Data Engineer,"200000,0",USD,"200000,0",US,Remoto,US,Grande,Engenheiro de Dados
+257,2021,Senior,Tempo integral,Principal Data Scientist,"147000,0",EUR,"173762,0",DE,Remoto,DE,Média,Cientista de Dados
+258,2021,Senior,Tempo integral,Machine Learning Engineer,"185000,0",USD,"185000,0",US,Híbrido,US,Grande,Cientista de Dados
+259,2021,Executive,Tempo integral,Director of Data Science,"120000,0",EUR,"141846,0",DE,Presencial,DE,Grande,Cientista de Dados
+260,2021,Pleno,Tempo integral,Data Scientist,"130000,0",USD,"130000,0",US,Híbrido,US,Grande,Cientista de Dados
+261,2021,Senior,Tempo integral,Data Analyst,"54000,0",EUR,"63831,0",DE,Híbrido,DE,Grande,Analista de Dados
+262,2021,Pleno,Tempo integral,Data Scientist,"1250000,0",INR,"16904,0",IN,Remoto,IN,Pequena,Cientista de Dados
+263,2021,Senior,Tempo integral,Machine Learning Engineer,"4900000,0",INR,"66265,0",IN,Presencial,IN,Grande,Cientista de Dados
+264,2021,Pleno,Tempo integral,Data Scientist,"21600,0",EUR,"25532,0",RS,Remoto,DE,Pequena,Cientista de Dados
+265,2021,Senior,Tempo integral,Lead Data Engineer,"160000,0",USD,"160000,0",PR,Híbrido,US,Pequena,Engenheiro de Dados
+266,2021,Pleno,Tempo integral,Data Engineer,"93150,0",USD,"93150,0",US,Presencial,US,Média,Engenheiro de Dados
+267,2021,Pleno,Tempo integral,Data Engineer,"111775,0",USD,"111775,0",US,Presencial,US,Média,Engenheiro de Dados
+268,2021,Pleno,Tempo integral,Data Engineer,"250000,0",TRY,"28016,0",TR,Remoto,TR,Média,Engenheiro de Dados
+269,2021,Junior,Tempo integral,Data Engineer,"55000,0",EUR,"65013,0",DE,Híbrido,DE,Média,Engenheiro de Dados
+270,2021,Junior,Tempo integral,Data Engineer,"72500,0",USD,"72500,0",US,Remoto,US,Grande,Engenheiro de Dados
+271,2021,Senior,Tempo integral,Computer Vision Engineer,"102000,0",BRL,"18907,0",BR,Presencial,BR,Média,Engenheiro de Dados
+272,2021,Junior,Tempo integral,Data Science Consultant,"65000,0",EUR,"76833,0",DE,Presencial,DE,Grande,Cientista de Dados
+273,2021,Junior,Tempo integral,Machine Learning Engineer,"85000,0",USD,"85000,0",NL,Remoto,DE,Pequena,Cientista de Dados
+274,2021,Senior,Tempo integral,Data Scientist,"65720,0",EUR,"77684,0",FR,Híbrido,FR,Média,Cientista de Dados
+275,2021,Junior,Tempo integral,Data Scientist,"100000,0",USD,"100000,0",US,Remoto,US,Média,Cientista de Dados
+276,2021,Junior,Tempo integral,Data Scientist,"58000,0",USD,"58000,0",US,Híbrido,US,Grande,Cientista de Dados
+277,2021,Senior,Tempo integral,AI Scientist,"55000,0",USD,"55000,0",ES,Remoto,ES,Grande,Cientista de Dados
+278,2021,Senior,Tempo integral,Data Scientist,"180000,0",TRY,"20171,0",TR,Híbrido,TR,Grande,Cientista de Dados
+279,2021,Junior,Tempo integral,Business Data Analyst,"50000,0",EUR,"59102,0",LU,Remoto,LU,Grande,Analista de Dados
+280,2021,Pleno,Tempo integral,Data Engineer,"112000,0",USD,"112000,0",US,Remoto,US,Grande,Engenheiro de Dados
+281,2021,Junior,Tempo integral,Research Scientist,"100000,0",USD,"100000,0",JE,Presencial,CN,Grande,Cientista de Dados
+282,2021,Pleno,Meio período,Data Engineer,"59000,0",EUR,"69741,0",NL,Remoto,NL,Grande,Engenheiro de Dados
+283,2021,Senior,Contrato,Staff Data Scientist,"105000,0",USD,"105000,0",US,Remoto,US,Média,Cientista de Dados
+284,2021,Pleno,Tempo integral,Research Scientist,"69999,0",USD,"69999,0",CZ,Híbrido,CZ,Grande,Cientista de Dados
+285,2021,Senior,Tempo integral,Data Science Manager,"7000000,0",INR,"94665,0",IN,Híbrido,IN,Grande,Cientista de Dados
+286,2021,Senior,Tempo integral,Head of Data,"87000,0",EUR,"102839,0",SI,Remoto,SI,Grande,Gerente de Dados
+287,2021,Pleno,Tempo integral,Data Scientist,"109000,0",USD,"109000,0",US,Híbrido,US,Grande,Cientista de Dados
+288,2021,Pleno,Tempo integral,Machine Learning Engineer,"43200,0",EUR,"51064,0",IT,Híbrido,IT,Grande,Cientista de Dados
+289,2022,Senior,Tempo integral,Data Engineer,"135000,0",USD,"135000,0",US,Remoto,US,Média,Engenheiro de Dados
+290,2022,Senior,Tempo integral,Data Analyst,"155000,0",USD,"155000,0",US,Remoto,US,Média,Analista de Dados
+291,2022,Senior,Tempo integral,Data Analyst,"120600,0",USD,"120600,0",US,Remoto,US,Média,Analista de Dados
+292,2022,Pleno,Tempo integral,Data Scientist,"130000,0",USD,"130000,0",US,Presencial,US,Média,Cientista de Dados
+293,2022,Pleno,Tempo integral,Data Scientist,"90000,0",USD,"90000,0",US,Presencial,US,Média,Cientista de Dados
+294,2022,Pleno,Tempo integral,Data Engineer,"170000,0",USD,"170000,0",US,Remoto,US,Média,Engenheiro de Dados
+295,2022,Pleno,Tempo integral,Data Engineer,"150000,0",USD,"150000,0",US,Remoto,US,Média,Engenheiro de Dados
+296,2022,Senior,Tempo integral,Data Analyst,"102100,0",USD,"102100,0",US,Remoto,US,Média,Analista de Dados
+297,2022,Senior,Tempo integral,Data Analyst,"84900,0",USD,"84900,0",US,Remoto,US,Média,Analista de Dados
+298,2022,Senior,Tempo integral,Data Scientist,"136620,0",USD,"136620,0",US,Remoto,US,Média,Cientista de Dados
+299,2022,Senior,Tempo integral,Data Scientist,"99360,0",USD,"99360,0",US,Remoto,US,Média,Cientista de Dados
+300,2022,Senior,Tempo integral,Data Scientist,"90000,0",GBP,"117789,0",GB,Presencial,GB,Média,Cientista de Dados
+301,2022,Senior,Tempo integral,Data Scientist,"80000,0",GBP,"104702,0",GB,Presencial,GB,Média,Cientista de Dados
+302,2022,Senior,Tempo integral,Data Scientist,"146000,0",USD,"146000,0",US,Remoto,US,Média,Cientista de Dados
+303,2022,Senior,Tempo integral,Data Scientist,"123000,0",USD,"123000,0",US,Remoto,US,Média,Cientista de Dados
+304,2022,Junior,Tempo integral,Data Engineer,"40000,0",GBP,"52351,0",GB,Remoto,GB,Média,Engenheiro de Dados
+305,2022,Senior,Tempo integral,Data Analyst,"99000,0",USD,"99000,0",US,Presencial,US,Média,Analista de Dados
+306,2022,Senior,Tempo integral,Data Analyst,"116000,0",USD,"116000,0",US,Presencial,US,Média,Analista de Dados
+307,2022,Pleno,Tempo integral,Data Analyst,"106260,0",USD,"106260,0",US,Presencial,US,Média,Analista de Dados
+308,2022,Pleno,Tempo integral,Data Analyst,"126500,0",USD,"126500,0",US,Presencial,US,Média,Analista de Dados
+309,2022,Executive,Tempo integral,Data Engineer,"242000,0",USD,"242000,0",US,Remoto,US,Média,Engenheiro de Dados
+310,2022,Executive,Tempo integral,Data Engineer,"200000,0",USD,"200000,0",US,Remoto,US,Média,Engenheiro de Dados
+311,2022,Pleno,Tempo integral,Data Scientist,"50000,0",GBP,"65438,0",GB,Presencial,GB,Média,Cientista de Dados
+312,2022,Pleno,Tempo integral,Data Scientist,"30000,0",GBP,"39263,0",GB,Presencial,GB,Média,Cientista de Dados
+313,2022,Pleno,Tempo integral,Data Engineer,"60000,0",GBP,"78526,0",GB,Presencial,GB,Média,Engenheiro de Dados
+314,2022,Pleno,Tempo integral,Data Engineer,"40000,0",GBP,"52351,0",GB,Presencial,GB,Média,Engenheiro de Dados
+315,2022,Senior,Tempo integral,Data Scientist,"165220,0",USD,"165220,0",US,Remoto,US,Média,Cientista de Dados
+316,2022,Junior,Tempo integral,Data Engineer,"35000,0",GBP,"45807,0",GB,Remoto,GB,Média,Engenheiro de Dados
+317,2022,Senior,Tempo integral,Data Scientist,"120160,0",USD,"120160,0",US,Remoto,US,Média,Cientista de Dados
+318,2022,Senior,Tempo integral,Data Analyst,"90320,0",USD,"90320,0",US,Remoto,US,Média,Analista de Dados
+319,2022,Senior,Tempo integral,Data Engineer,"181940,0",USD,"181940,0",US,Presencial,US,Média,Engenheiro de Dados
+320,2022,Senior,Tempo integral,Data Engineer,"132320,0",USD,"132320,0",US,Presencial,US,Média,Engenheiro de Dados
+321,2022,Senior,Tempo integral,Data Engineer,"220110,0",USD,"220110,0",US,Presencial,US,Média,Engenheiro de Dados
+322,2022,Senior,Tempo integral,Data Engineer,"160080,0",USD,"160080,0",US,Presencial,US,Média,Engenheiro de Dados
+323,2022,Senior,Tempo integral,Data Scientist,"180000,0",USD,"180000,0",US,Presencial,US,Grande,Cientista de Dados
+324,2022,Senior,Tempo integral,Data Scientist,"120000,0",USD,"120000,0",US,Presencial,US,Grande,Cientista de Dados
+325,2022,Senior,Tempo integral,Data Analyst,"124190,0",USD,"124190,0",US,Remoto,US,Média,Analista de Dados
+326,2022,Executive,Tempo integral,Data Analyst,"130000,0",USD,"130000,0",US,Remoto,US,Média,Analista de Dados
+327,2022,Executive,Tempo integral,Data Analyst,"110000,0",USD,"110000,0",US,Remoto,US,Média,Analista de Dados
+328,2022,Senior,Tempo integral,Data Analyst,"170000,0",USD,"170000,0",US,Remoto,US,Média,Analista de Dados
+329,2022,Pleno,Tempo integral,Data Analyst,"115500,0",USD,"115500,0",US,Remoto,US,Média,Analista de Dados
+330,2022,Senior,Tempo integral,Data Analyst,"112900,0",USD,"112900,0",US,Remoto,US,Média,Analista de Dados
+331,2022,Senior,Tempo integral,Data Analyst,"90320,0",USD,"90320,0",US,Remoto,US,Média,Analista de Dados
+332,2022,Senior,Tempo integral,Data Analyst,"112900,0",USD,"112900,0",US,Remoto,US,Média,Analista de Dados
+333,2022,Senior,Tempo integral,Data Analyst,"90320,0",USD,"90320,0",US,Remoto,US,Média,Analista de Dados
+334,2022,Senior,Tempo integral,Data Engineer,"165400,0",USD,"165400,0",US,Remoto,US,Média,Engenheiro de Dados
+335,2022,Senior,Tempo integral,Data Engineer,"132320,0",USD,"132320,0",US,Remoto,US,Média,Engenheiro de Dados
+336,2022,Pleno,Tempo integral,Data Analyst,"167000,0",USD,"167000,0",US,Remoto,US,Média,Analista de Dados
+337,2022,Senior,Tempo integral,Data Engineer,"243900,0",USD,"243900,0",US,Remoto,US,Média,Engenheiro de Dados
+338,2022,Senior,Tempo integral,Data Analyst,"136600,0",USD,"136600,0",US,Remoto,US,Média,Analista de Dados
+339,2022,Senior,Tempo integral,Data Analyst,"109280,0",USD,"109280,0",US,Remoto,US,Média,Analista de Dados
+340,2022,Senior,Tempo integral,Data Engineer,"128875,0",USD,"128875,0",US,Remoto,US,Média,Engenheiro de Dados
+341,2022,Senior,Tempo integral,Data Engineer,"93700,0",USD,"93700,0",US,Remoto,US,Média,Engenheiro de Dados
+342,2022,Executive,Tempo integral,Head of Data Science,"224000,0",USD,"224000,0",US,Remoto,US,Média,Cientista de Dados
+343,2022,Executive,Tempo integral,Head of Data Science,"167875,0",USD,"167875,0",US,Remoto,US,Média,Cientista de Dados
+344,2022,Executive,Tempo integral,Analytics Engineer,"175000,0",USD,"175000,0",US,Remoto,US,Média,Analista de Dados
+345,2022,Senior,Tempo integral,Data Engineer,"156600,0",USD,"156600,0",US,Remoto,US,Média,Engenheiro de Dados
+346,2022,Senior,Tempo integral,Data Engineer,"108800,0",USD,"108800,0",US,Presencial,US,Média,Engenheiro de Dados
+347,2022,Senior,Tempo integral,Data Scientist,"95550,0",USD,"95550,0",US,Presencial,US,Média,Cientista de Dados
+348,2022,Senior,Tempo integral,Data Engineer,"113000,0",USD,"113000,0",US,Presencial,US,Grande,Engenheiro de Dados
+349,2022,Senior,Tempo integral,Data Analyst,"135000,0",USD,"135000,0",US,Remoto,US,Média,Analista de Dados
+350,2022,Senior,Tempo integral,Data Science Manager,"161342,0",USD,"161342,0",US,Remoto,US,Média,Cientista de Dados
+351,2022,Senior,Tempo integral,Data Science Manager,"137141,0",USD,"137141,0",US,Remoto,US,Média,Cientista de Dados
+352,2022,Senior,Tempo integral,Data Scientist,"167000,0",USD,"167000,0",US,Remoto,US,Média,Cientista de Dados
+353,2022,Senior,Tempo integral,Data Scientist,"123000,0",USD,"123000,0",US,Remoto,US,Média,Cientista de Dados
+354,2022,Senior,Tempo integral,Data Engineer,"60000,0",GBP,"78526,0",GB,Presencial,GB,Média,Engenheiro de Dados
+355,2022,Senior,Tempo integral,Data Engineer,"50000,0",GBP,"65438,0",GB,Presencial,GB,Média,Engenheiro de Dados
+356,2022,Senior,Tempo integral,Data Scientist,"150000,0",USD,"150000,0",US,Presencial,US,Média,Cientista de Dados
+357,2022,Senior,Tempo integral,Data Scientist,"211500,0",USD,"211500,0",US,Remoto,US,Média,Cientista de Dados
+358,2022,Senior,Tempo integral,Data Architect,"192400,0",USD,"192400,0",CA,Remoto,CA,Média,Arquiteto de Dados
+359,2022,Senior,Tempo integral,Data Architect,"90700,0",USD,"90700,0",CA,Remoto,CA,Média,Arquiteto de Dados
+360,2022,Senior,Tempo integral,Data Analyst,"130000,0",USD,"130000,0",CA,Remoto,CA,Média,Analista de Dados
+361,2022,Senior,Tempo integral,Data Analyst,"61300,0",USD,"61300,0",CA,Remoto,CA,Média,Analista de Dados
+362,2022,Senior,Tempo integral,Data Analyst,"130000,0",USD,"130000,0",CA,Remoto,CA,Média,Analista de Dados
+363,2022,Senior,Tempo integral,Data Analyst,"61300,0",USD,"61300,0",CA,Remoto,CA,Média,Analista de Dados
+364,2022,Senior,Tempo integral,Data Engineer,"160000,0",USD,"160000,0",US,Presencial,US,Grande,Engenheiro de Dados
+365,2022,Senior,Tempo integral,Data Scientist,"138600,0",USD,"138600,0",US,Remoto,US,Média,Cientista de Dados
+366,2022,Senior,Tempo integral,Data Engineer,"136000,0",USD,"136000,0",US,Presencial,US,Média,Engenheiro de Dados
+367,2022,Pleno,Tempo integral,Data Analyst,"58000,0",USD,"58000,0",US,Presencial,US,Pequena,Analista de Dados
+368,2022,Executive,Tempo integral,Analytics Engineer,"135000,0",USD,"135000,0",US,Remoto,US,Média,Analista de Dados
+369,2022,Senior,Tempo integral,Data Scientist,"170000,0",USD,"170000,0",US,Remoto,US,Média,Cientista de Dados
+370,2022,Senior,Tempo integral,Data Scientist,"123000,0",USD,"123000,0",US,Remoto,US,Média,Cientista de Dados
+371,2022,Senior,Tempo integral,Machine Learning Engineer,"189650,0",USD,"189650,0",US,Presencial,US,Média,Cientista de Dados
+372,2022,Senior,Tempo integral,Machine Learning Engineer,"164996,0",USD,"164996,0",US,Presencial,US,Média,Cientista de Dados
+373,2022,Pleno,Tempo integral,ETL Developer,"50000,0",EUR,"54957,0",GR,Presencial,GR,Média,Engenheiro de Dados
+374,2022,Pleno,Tempo integral,ETL Developer,"50000,0",EUR,"54957,0",GR,Presencial,GR,Média,Engenheiro de Dados
+375,2022,Executive,Tempo integral,Lead Data Engineer,"150000,0",CAD,"118187,0",CA,Remoto,CA,Pequena,Engenheiro de Dados
+376,2022,Senior,Tempo integral,Data Analyst,"132000,0",USD,"132000,0",US,Presencial,US,Média,Analista de Dados
+377,2022,Senior,Tempo integral,Data Engineer,"165400,0",USD,"165400,0",US,Remoto,US,Média,Engenheiro de Dados
+378,2022,Senior,Tempo integral,Data Architect,"208775,0",USD,"208775,0",US,Remoto,US,Média,Arquiteto de Dados
+379,2022,Senior,Tempo integral,Data Architect,"147800,0",USD,"147800,0",US,Remoto,US,Média,Arquiteto de Dados
+380,2022,Senior,Tempo integral,Data Engineer,"136994,0",USD,"136994,0",US,Remoto,US,Média,Engenheiro de Dados
+381,2022,Senior,Tempo integral,Data Engineer,"101570,0",USD,"101570,0",US,Remoto,US,Média,Engenheiro de Dados
+382,2022,Senior,Tempo integral,Data Analyst,"128875,0",USD,"128875,0",US,Remoto,US,Média,Analista de Dados
+383,2022,Senior,Tempo integral,Data Analyst,"93700,0",USD,"93700,0",US,Remoto,US,Média,Analista de Dados
+384,2022,Executive,Tempo integral,Head of Machine Learning,"6000000,0",INR,"79039,0",IN,Híbrido,IN,Grande,Cientista de Dados
+385,2022,Senior,Tempo integral,Data Engineer,"132320,0",USD,"132320,0",US,Remoto,US,Média,Engenheiro de Dados
+386,2022,Junior,Tempo integral,Machine Learning Engineer,"28500,0",GBP,"37300,0",GB,Remoto,GB,Grande,Cientista de Dados
+387,2022,Senior,Tempo integral,Data Analyst,"164000,0",USD,"164000,0",US,Presencial,US,Média,Analista de Dados
+388,2022,Senior,Tempo integral,Data Engineer,"155000,0",USD,"155000,0",US,Remoto,US,Média,Engenheiro de Dados
+389,2022,Pleno,Tempo integral,Machine Learning Engineer,"95000,0",GBP,"124333,0",GB,Presencial,GB,Média,Cientista de Dados
+390,2022,Pleno,Tempo integral,Machine Learning Engineer,"75000,0",GBP,"98158,0",GB,Presencial,GB,Média,Cientista de Dados
+391,2022,Pleno,Tempo integral,AI Scientist,"120000,0",USD,"120000,0",US,Presencial,US,Média,Cientista de Dados
+392,2022,Senior,Tempo integral,Data Analyst,"112900,0",USD,"112900,0",US,Remoto,US,Média,Analista de Dados
+393,2022,Senior,Tempo integral,Data Analyst,"90320,0",USD,"90320,0",US,Remoto,US,Média,Analista de Dados
+394,2022,Senior,Tempo integral,Data Analytics Manager,"145000,0",USD,"145000,0",US,Remoto,US,Média,Analista de Dados
+395,2022,Senior,Tempo integral,Data Analytics Manager,"105400,0",USD,"105400,0",US,Remoto,US,Média,Analista de Dados
+396,2022,Pleno,Tempo integral,Machine Learning Engineer,"80000,0",EUR,"87932,0",FR,Remoto,DE,Média,Cientista de Dados
+397,2022,Pleno,Tempo integral,Data Engineer,"90000,0",GBP,"117789,0",GB,Presencial,GB,Média,Engenheiro de Dados
+398,2022,Senior,Tempo integral,Data Scientist,"215300,0",USD,"215300,0",US,Remoto,US,Grande,Cientista de Dados
+399,2022,Senior,Tempo integral,Data Scientist,"158200,0",USD,"158200,0",US,Remoto,US,Grande,Cientista de Dados
+400,2022,Senior,Tempo integral,Data Engineer,"209100,0",USD,"209100,0",US,Remoto,US,Grande,Engenheiro de Dados
+401,2022,Senior,Tempo integral,Data Engineer,"154600,0",USD,"154600,0",US,Remoto,US,Grande,Engenheiro de Dados
+402,2022,Senior,Tempo integral,Data Analyst,"115934,0",USD,"115934,0",US,Presencial,US,Média,Analista de Dados
+403,2022,Senior,Tempo integral,Data Analyst,"81666,0",USD,"81666,0",US,Presencial,US,Média,Analista de Dados
+404,2022,Senior,Tempo integral,Data Engineer,"175000,0",USD,"175000,0",US,Remoto,US,Média,Engenheiro de Dados
+405,2022,Pleno,Tempo integral,Data Engineer,"75000,0",GBP,"98158,0",GB,Presencial,GB,Média,Engenheiro de Dados
+406,2022,Pleno,Tempo integral,Data Analyst,"58000,0",USD,"58000,0",US,Presencial,US,Pequena,Analista de Dados
+407,2022,Senior,Tempo integral,Data Engineer,"183600,0",USD,"183600,0",US,Remoto,US,Grande,Engenheiro de Dados
+408,2022,Pleno,Tempo integral,Data Analyst,"40000,0",GBP,"52351,0",GB,Remoto,GB,Média,Analista de Dados
+409,2022,Senior,Tempo integral,Data Scientist,"180000,0",USD,"180000,0",US,Remoto,US,Média,Cientista de Dados
+410,2022,Pleno,Tempo integral,Data Scientist,"55000,0",GBP,"71982,0",GB,Presencial,GB,Média,Cientista de Dados
+411,2022,Pleno,Tempo integral,Data Scientist,"35000,0",GBP,"45807,0",GB,Presencial,GB,Média,Cientista de Dados
+412,2022,Pleno,Tempo integral,Data Engineer,"60000,0",EUR,"65949,0",GR,Remoto,GR,Média,Engenheiro de Dados
+413,2022,Pleno,Tempo integral,Data Engineer,"45000,0",EUR,"49461,0",GR,Remoto,GR,Média,Engenheiro de Dados
+414,2022,Pleno,Tempo integral,Data Engineer,"60000,0",GBP,"78526,0",GB,Remoto,GB,Média,Engenheiro de Dados
+415,2022,Pleno,Tempo integral,Data Engineer,"45000,0",GBP,"58894,0",GB,Remoto,GB,Média,Engenheiro de Dados
+416,2022,Senior,Tempo integral,Data Scientist,"260000,0",USD,"260000,0",US,Remoto,US,Média,Cientista de Dados
+417,2022,Senior,Tempo integral,Data Science Engineer,"60000,0",USD,"60000,0",AR,Remoto,MX,Grande,Cientista de Dados
+418,2022,Pleno,Tempo integral,Data Engineer,"63900,0",USD,"63900,0",US,Presencial,US,Média,Engenheiro de Dados
+419,2022,Pleno,Tempo integral,Machine Learning Scientist,"160000,0",USD,"160000,0",US,Remoto,US,Grande,Cientista de Dados
+420,2022,Pleno,Tempo integral,Machine Learning Scientist,"112300,0",USD,"112300,0",US,Remoto,US,Grande,Cientista de Dados
+421,2022,Pleno,Tempo integral,Data Science Manager,"241000,0",USD,"241000,0",US,Remoto,US,Média,Cientista de Dados
+422,2022,Pleno,Tempo integral,Data Science Manager,"159000,0",USD,"159000,0",US,Remoto,US,Média,Cientista de Dados
+423,2022,Senior,Tempo integral,Data Scientist,"180000,0",USD,"180000,0",US,Presencial,US,Média,Cientista de Dados
+424,2022,Senior,Tempo integral,Data Scientist,"80000,0",USD,"80000,0",US,Presencial,US,Média,Cientista de Dados
+425,2022,Pleno,Tempo integral,Data Engineer,"82900,0",USD,"82900,0",US,Presencial,US,Média,Engenheiro de Dados
+426,2022,Senior,Tempo integral,Data Engineer,"100800,0",USD,"100800,0",US,Remoto,US,Grande,Engenheiro de Dados
+427,2022,Pleno,Tempo integral,Data Engineer,"45000,0",EUR,"49461,0",ES,Remoto,ES,Média,Engenheiro de Dados
+428,2022,Senior,Tempo integral,Data Scientist,"140400,0",USD,"140400,0",US,Presencial,US,Grande,Cientista de Dados
+429,2022,Pleno,Tempo integral,Data Analyst,"30000,0",GBP,"39263,0",GB,Remoto,GB,Média,Analista de Dados
+430,2022,Pleno,Tempo integral,Data Analyst,"40000,0",EUR,"43966,0",ES,Remoto,ES,Média,Analista de Dados
+431,2022,Pleno,Tempo integral,Data Analyst,"30000,0",EUR,"32974,0",ES,Remoto,ES,Média,Analista de Dados
+432,2022,Pleno,Tempo integral,Data Engineer,"80000,0",EUR,"87932,0",ES,Remoto,ES,Média,Engenheiro de Dados
+433,2022,Pleno,Tempo integral,Data Engineer,"70000,0",EUR,"76940,0",ES,Remoto,ES,Média,Engenheiro de Dados
+434,2022,Pleno,Tempo integral,Data Engineer,"80000,0",GBP,"104702,0",GB,Remoto,GB,Média,Engenheiro de Dados
+435,2022,Pleno,Tempo integral,Data Engineer,"70000,0",GBP,"91614,0",GB,Remoto,GB,Média,Engenheiro de Dados
+436,2022,Pleno,Tempo integral,Data Engineer,"60000,0",EUR,"65949,0",ES,Remoto,ES,Média,Engenheiro de Dados
+437,2022,Pleno,Tempo integral,Data Engineer,"80000,0",EUR,"87932,0",GR,Remoto,GR,Média,Engenheiro de Dados
+438,2022,Senior,Tempo integral,Machine Learning Engineer,"189650,0",USD,"189650,0",US,Presencial,US,Média,Cientista de Dados
+439,2022,Senior,Tempo integral,Machine Learning Engineer,"164996,0",USD,"164996,0",US,Presencial,US,Média,Cientista de Dados
+440,2022,Pleno,Tempo integral,Data Analyst,"40000,0",EUR,"43966,0",GR,Remoto,GR,Média,Analista de Dados
+441,2022,Pleno,Tempo integral,Data Analyst,"30000,0",EUR,"32974,0",GR,Remoto,GR,Média,Analista de Dados
+442,2022,Pleno,Tempo integral,Data Engineer,"75000,0",GBP,"98158,0",GB,Remoto,GB,Média,Engenheiro de Dados
+443,2022,Pleno,Tempo integral,Data Engineer,"60000,0",GBP,"78526,0",GB,Remoto,GB,Média,Engenheiro de Dados
+444,2022,Senior,Tempo integral,Data Scientist,"215300,0",USD,"215300,0",US,Presencial,US,Grande,Cientista de Dados
+445,2022,Pleno,Tempo integral,Data Engineer,"70000,0",EUR,"76940,0",GR,Remoto,GR,Média,Engenheiro de Dados
+446,2022,Senior,Tempo integral,Data Engineer,"209100,0",USD,"209100,0",US,Remoto,US,Grande,Engenheiro de Dados
+447,2022,Senior,Tempo integral,Data Engineer,"154600,0",USD,"154600,0",US,Remoto,US,Grande,Engenheiro de Dados
+448,2022,Senior,Tempo integral,Data Engineer,"180000,0",USD,"180000,0",US,Remoto,US,Média,Engenheiro de Dados
+449,2022,Junior,Tempo integral,ML Engineer,"20000,0",EUR,"21983,0",PT,Remoto,PT,Grande,Engenheiro de Dados
+450,2022,Senior,Tempo integral,Data Engineer,"80000,0",USD,"80000,0",US,Remoto,US,Média,Engenheiro de Dados
+451,2022,Pleno,Tempo integral,Machine Learning Developer,"100000,0",CAD,"78791,0",CA,Remoto,CA,Média,Cientista de Dados
+452,2022,Executive,Tempo integral,Director of Data Science,"250000,0",CAD,"196979,0",CA,Híbrido,CA,Grande,Cientista de Dados
+453,2022,Pleno,Tempo integral,Machine Learning Engineer,"120000,0",USD,"120000,0",US,Remoto,US,Pequena,Cientista de Dados
+454,2022,Junior,Tempo integral,Computer Vision Engineer,"125000,0",USD,"125000,0",US,Presencial,US,Média,Engenheiro de Dados
+455,2022,Pleno,Tempo integral,NLP Engineer,"240000,0",CNY,"37236,0",US,Híbrido,US,Grande,Engenheiro de Dados
+456,2022,Senior,Tempo integral,Data Engineer,"105000,0",USD,"105000,0",US,Remoto,US,Média,Engenheiro de Dados
+457,2022,Senior,Tempo integral,Lead Machine Learning Engineer,"80000,0",EUR,"87932,0",DE,Presencial,DE,Média,Cientista de Dados
+458,2022,Pleno,Tempo integral,Business Data Analyst,"1400000,0",INR,"18442,0",IN,Remoto,IN,Média,Analista de Dados
+459,2022,Pleno,Tempo integral,Data Scientist,"2400000,0",INR,"31615,0",IN,Remoto,IN,Grande,Cientista de Dados
+460,2022,Pleno,Tempo integral,Machine Learning Infrastructure Engineer,"53000,0",EUR,"58255,0",PT,Híbrido,PT,Grande,Cientista de Dados
+461,2022,Junior,Tempo integral,Financial Data Analyst,"100000,0",USD,"100000,0",US,Híbrido,US,Grande,Analista de Dados
+462,2022,Pleno,Meio período,Data Engineer,"50000,0",EUR,"54957,0",DE,Híbrido,DE,Grande,Engenheiro de Dados
+463,2022,Junior,Tempo integral,Data Scientist,"1400000,0",INR,"18442,0",IN,Remoto,IN,Média,Cientista de Dados
+464,2022,Senior,Tempo integral,Principal Data Scientist,"148000,0",EUR,"162674,0",DE,Remoto,DE,Média,Cientista de Dados
+465,2022,Junior,Tempo integral,Data Engineer,"120000,0",USD,"120000,0",US,Remoto,US,Média,Engenheiro de Dados
+466,2022,Senior,Tempo integral,Research Scientist,"144000,0",USD,"144000,0",US,Híbrido,US,Grande,Cientista de Dados
+467,2022,Senior,Tempo integral,Data Scientist,"104890,0",USD,"104890,0",US,Remoto,US,Média,Cientista de Dados
+468,2022,Senior,Tempo integral,Data Engineer,"100000,0",USD,"100000,0",US,Remoto,US,Média,Engenheiro de Dados
+469,2022,Senior,Tempo integral,Data Scientist,"140000,0",USD,"140000,0",US,Remoto,US,Média,Cientista de Dados
+470,2022,Pleno,Tempo integral,Data Analyst,"135000,0",USD,"135000,0",US,Remoto,US,Média,Analista de Dados
+471,2022,Pleno,Tempo integral,Data Analyst,"50000,0",USD,"50000,0",US,Remoto,US,Média,Analista de Dados
+472,2022,Senior,Tempo integral,Data Scientist,"220000,0",USD,"220000,0",US,Remoto,US,Média,Cientista de Dados
+473,2022,Senior,Tempo integral,Data Scientist,"140000,0",USD,"140000,0",US,Remoto,US,Média,Cientista de Dados
+474,2022,Pleno,Tempo integral,Data Scientist,"140000,0",GBP,"183228,0",GB,Presencial,GB,Média,Cientista de Dados
+475,2022,Pleno,Tempo integral,Data Scientist,"70000,0",GBP,"91614,0",GB,Presencial,GB,Média,Cientista de Dados
+476,2022,Senior,Tempo integral,Data Scientist,"185100,0",USD,"185100,0",US,Remoto,US,Média,Cientista de Dados
+477,2022,Senior,Tempo integral,Machine Learning Engineer,"220000,0",USD,"220000,0",US,Remoto,US,Média,Cientista de Dados
+478,2022,Pleno,Tempo integral,Data Scientist,"200000,0",USD,"200000,0",US,Remoto,US,Média,Cientista de Dados
+479,2022,Pleno,Tempo integral,Data Scientist,"120000,0",USD,"120000,0",US,Remoto,US,Média,Cientista de Dados
+480,2022,Senior,Tempo integral,Machine Learning Engineer,"120000,0",USD,"120000,0",AE,Remoto,AE,Pequena,Cientista de Dados
+481,2022,Senior,Tempo integral,Machine Learning Engineer,"65000,0",USD,"65000,0",AE,Remoto,AE,Pequena,Cientista de Dados
+482,2022,Executive,Tempo integral,Data Engineer,"324000,0",USD,"324000,0",US,Remoto,US,Média,Engenheiro de Dados
+483,2022,Executive,Tempo integral,Data Engineer,"216000,0",USD,"216000,0",US,Remoto,US,Média,Engenheiro de Dados
+484,2022,Senior,Tempo integral,Data Engineer,"210000,0",USD,"210000,0",US,Remoto,US,Média,Engenheiro de Dados
+485,2022,Senior,Tempo integral,Machine Learning Engineer,"120000,0",USD,"120000,0",US,Remoto,US,Média,Cientista de Dados
+486,2022,Senior,Tempo integral,Data Scientist,"230000,0",USD,"230000,0",US,Remoto,US,Média,Cientista de Dados
+487,2022,Junior,Meio período,Data Scientist,"100000,0",USD,"100000,0",DZ,Híbrido,DZ,Média,Cientista de Dados
+488,2022,Pleno,Freelancer,Data Scientist,"100000,0",USD,"100000,0",CA,Remoto,US,Média,Cientista de Dados
+489,2022,Junior,Contrato,Applied Machine Learning Scientist,"29000,0",EUR,"31875,0",TN,Remoto,CZ,Média,Cientista de Dados
+490,2022,Senior,Tempo integral,Head of Data,"200000,0",USD,"200000,0",MY,Remoto,US,Média,Gerente de Dados
+491,2022,Pleno,Tempo integral,Principal Data Analyst,"75000,0",USD,"75000,0",CA,Remoto,CA,Pequena,Analista de Dados
+492,2022,Pleno,Tempo integral,Data Scientist,"150000,0",PLN,"35590,0",PL,Remoto,PL,Grande,Cientista de Dados
+493,2022,Senior,Tempo integral,Machine Learning Developer,"100000,0",CAD,"78791,0",CA,Remoto,CA,Média,Cientista de Dados
+494,2022,Senior,Tempo integral,Data Scientist,"100000,0",USD,"100000,0",BR,Remoto,US,Média,Cientista de Dados
+495,2022,Pleno,Tempo integral,Machine Learning Scientist,"153000,0",USD,"153000,0",US,Híbrido,US,Média,Cientista de Dados
+496,2022,Junior,Tempo integral,Data Engineer,"52800,0",EUR,"58035,0",PK,Remoto,DE,Média,Engenheiro de Dados
+497,2022,Senior,Tempo integral,Data Scientist,"165000,0",USD,"165000,0",US,Remoto,US,Média,Cientista de Dados
+498,2022,Senior,Tempo integral,Research Scientist,"85000,0",EUR,"93427,0",FR,Híbrido,FR,Grande,Cientista de Dados
+499,2022,Junior,Tempo integral,Data Scientist,"66500,0",CAD,"52396,0",CA,Remoto,CA,Grande,Cientista de Dados
+500,2022,Senior,Tempo integral,Machine Learning Engineer,"57000,0",EUR,"62651,0",NL,Remoto,NL,Grande,Cientista de Dados
+501,2022,Pleno,Tempo integral,Head of Data,"30000,0",EUR,"32974,0",EE,Remoto,EE,Pequena,Gerente de Dados
+502,2022,Junior,Tempo integral,Data Scientist,"40000,0",USD,"40000,0",JP,Remoto,MY,Grande,Cientista de Dados
+503,2022,Pleno,Tempo integral,Machine Learning Engineer,"121000,0",AUD,"87425,0",AU,Remoto,AU,Grande,Cientista de Dados
+504,2022,Senior,Tempo integral,Data Engineer,"115000,0",USD,"115000,0",US,Remoto,US,Média,Engenheiro de Dados
+505,2022,Junior,Tempo integral,Data Scientist,"120000,0",AUD,"86703,0",AU,Híbrido,AU,Média,Cientista de Dados
+506,2022,Pleno,Tempo integral,Applied Machine Learning Scientist,"75000,0",USD,"75000,0",BO,Remoto,US,Grande,Cientista de Dados
+507,2022,Pleno,Tempo integral,Research Scientist,"59000,0",EUR,"64849,0",AT,Presencial,AT,Grande,Cientista de Dados
+508,2022,Junior,Tempo integral,Research Scientist,"120000,0",USD,"120000,0",US,Remoto,US,Grande,Cientista de Dados
+509,2022,Pleno,Tempo integral,Applied Data Scientist,"157000,0",USD,"157000,0",US,Remoto,US,Grande,Cientista de Dados
+510,2022,Junior,Tempo integral,Computer Vision Software Engineer,"150000,0",USD,"150000,0",AU,Remoto,AU,Pequena,Engenheiro de Dados
+511,2022,Pleno,Tempo integral,Business Data Analyst,"90000,0",CAD,"70912,0",CA,Híbrido,CA,Grande,Analista de Dados
+512,2022,Junior,Tempo integral,Data Engineer,"65000,0",USD,"65000,0",US,Remoto,US,Pequena,Engenheiro de Dados
+513,2022,Senior,Tempo integral,Machine Learning Engineer,"65000,0",EUR,"71444,0",IE,Remoto,IE,Pequena,Cientista de Dados
+514,2022,Junior,Tempo integral,Data Analytics Engineer,"20000,0",USD,"20000,0",PK,Presencial,PK,Média,Analista de Dados
+515,2022,Pleno,Tempo integral,Data Scientist,"48000,0",USD,"48000,0",RU,Remoto,US,Pequena,Cientista de Dados
+516,2022,Senior,Tempo integral,Data Science Manager,"152500,0",USD,"152500,0",US,Remoto,US,Média,Cientista de Dados
+517,2022,Pleno,Tempo integral,Data Engineer,"62000,0",EUR,"68147,0",FR,Remoto,FR,Média,Engenheiro de Dados
+518,2022,Pleno,Tempo integral,Data Scientist,"115000,0",CHF,"122346,0",CH,Presencial,CH,Grande,Cientista de Dados
+519,2022,Senior,Tempo integral,Applied Data Scientist,"380000,0",USD,"380000,0",US,Remoto,US,Grande,Cientista de Dados
+520,2022,Pleno,Tempo integral,Data Scientist,"88000,0",CAD,"69336,0",CA,Remoto,CA,Média,Cientista de Dados
+521,2022,Junior,Tempo integral,Computer Vision Engineer,"10000,0",USD,"10000,0",PT,Remoto,LU,Média,Engenheiro de Dados
+522,2022,Pleno,Tempo integral,Data Analyst,"20000,0",USD,"20000,0",GR,Remoto,GR,Pequena,Analista de Dados
+523,2022,Senior,Tempo integral,Data Analytics Lead,"405000,0",USD,"405000,0",US,Remoto,US,Grande,Analista de Dados
+524,2022,Pleno,Tempo integral,Data Scientist,"135000,0",USD,"135000,0",US,Remoto,US,Grande,Cientista de Dados
+525,2022,Senior,Tempo integral,Applied Data Scientist,"177000,0",USD,"177000,0",US,Remoto,US,Grande,Cientista de Dados
+526,2022,Pleno,Tempo integral,Data Scientist,"78000,0",USD,"78000,0",US,Remoto,US,Média,Cientista de Dados
+527,2022,Senior,Tempo integral,Data Analyst,"135000,0",USD,"135000,0",US,Remoto,US,Média,Analista de Dados
+528,2022,Senior,Tempo integral,Data Analyst,"100000,0",USD,"100000,0",US,Remoto,US,Média,Analista de Dados
+529,2022,Senior,Tempo integral,Data Analyst,"90320,0",USD,"90320,0",US,Remoto,US,Média,Analista de Dados
+530,2022,Pleno,Tempo integral,Data Analyst,"85000,0",USD,"85000,0",CA,Presencial,CA,Média,Analista de Dados
+531,2022,Pleno,Tempo integral,Data Analyst,"75000,0",USD,"75000,0",CA,Presencial,CA,Média,Analista de Dados
+532,2022,Senior,Tempo integral,Machine Learning Engineer,"214000,0",USD,"214000,0",US,Remoto,US,Média,Cientista de Dados
+533,2022,Senior,Tempo integral,Machine Learning Engineer,"192600,0",USD,"192600,0",US,Remoto,US,Média,Cientista de Dados
+534,2022,Senior,Tempo integral,Data Architect,"266400,0",USD,"266400,0",US,Remoto,US,Média,Arquiteto de Dados
+535,2022,Senior,Tempo integral,Data Architect,"213120,0",USD,"213120,0",US,Remoto,US,Média,Arquiteto de Dados
+536,2022,Senior,Tempo integral,Data Analyst,"112900,0",USD,"112900,0",US,Remoto,US,Média,Analista de Dados
+537,2022,Senior,Tempo integral,Data Engineer,"155000,0",USD,"155000,0",US,Remoto,US,Média,Engenheiro de Dados
+538,2022,Pleno,Tempo integral,Data Scientist,"141300,0",USD,"141300,0",US,Presencial,US,Média,Cientista de Dados
+539,2022,Pleno,Tempo integral,Data Scientist,"102100,0",USD,"102100,0",US,Presencial,US,Média,Cientista de Dados
+540,2022,Senior,Tempo integral,Data Analyst,"115934,0",USD,"115934,0",US,Remoto,US,Média,Analista de Dados
+541,2022,Senior,Tempo integral,Data Analyst,"81666,0",USD,"81666,0",US,Remoto,US,Média,Analista de Dados
+542,2022,Pleno,Tempo integral,Data Engineer,"206699,0",USD,"206699,0",US,Presencial,US,Média,Engenheiro de Dados
+543,2022,Pleno,Tempo integral,Data Engineer,"99100,0",USD,"99100,0",US,Presencial,US,Média,Engenheiro de Dados
+544,2022,Senior,Tempo integral,Data Engineer,"130000,0",USD,"130000,0",US,Remoto,US,Média,Engenheiro de Dados
+545,2022,Senior,Tempo integral,Data Engineer,"115000,0",USD,"115000,0",US,Remoto,US,Média,Engenheiro de Dados
+546,2022,Senior,Tempo integral,Data Engineer,"110500,0",USD,"110500,0",US,Remoto,US,Média,Engenheiro de Dados
+547,2022,Senior,Tempo integral,Data Engineer,"130000,0",USD,"130000,0",US,Remoto,US,Média,Engenheiro de Dados
+548,2022,Senior,Tempo integral,Data Analyst,"99050,0",USD,"99050,0",US,Remoto,US,Média,Analista de Dados
+549,2022,Senior,Tempo integral,Data Engineer,"160000,0",USD,"160000,0",US,Remoto,US,Média,Engenheiro de Dados
+550,2022,Senior,Tempo integral,Data Scientist,"205300,0",USD,"205300,0",US,Presencial,US,Grande,Cientista de Dados
+551,2022,Senior,Tempo integral,Data Scientist,"140400,0",USD,"140400,0",US,Presencial,US,Grande,Cientista de Dados
+552,2022,Senior,Tempo integral,Data Scientist,"176000,0",USD,"176000,0",US,Remoto,US,Média,Cientista de Dados
+553,2022,Senior,Tempo integral,Data Scientist,"144000,0",USD,"144000,0",US,Remoto,US,Média,Cientista de Dados
+554,2022,Senior,Tempo integral,Data Engineer,"200100,0",USD,"200100,0",US,Remoto,US,Média,Engenheiro de Dados
+555,2022,Senior,Tempo integral,Data Engineer,"160000,0",USD,"160000,0",US,Remoto,US,Média,Engenheiro de Dados
+556,2022,Senior,Tempo integral,Data Engineer,"145000,0",USD,"145000,0",US,Remoto,US,Média,Engenheiro de Dados
+557,2022,Senior,Tempo integral,Data Engineer,"70500,0",USD,"70500,0",US,Presencial,US,Média,Engenheiro de Dados
+558,2022,Senior,Tempo integral,Data Scientist,"205300,0",USD,"205300,0",US,Presencial,US,Média,Cientista de Dados
+559,2022,Senior,Tempo integral,Data Scientist,"140400,0",USD,"140400,0",US,Presencial,US,Média,Cientista de Dados
+560,2022,Senior,Tempo integral,Analytics Engineer,"205300,0",USD,"205300,0",US,Presencial,US,Média,Analista de Dados
+561,2022,Senior,Tempo integral,Analytics Engineer,"184700,0",USD,"184700,0",US,Presencial,US,Média,Analista de Dados
+562,2022,Senior,Tempo integral,Data Engineer,"175100,0",USD,"175100,0",US,Remoto,US,Média,Engenheiro de Dados
+563,2022,Senior,Tempo integral,Data Engineer,"140250,0",USD,"140250,0",US,Remoto,US,Média,Engenheiro de Dados
+564,2022,Senior,Tempo integral,Data Analyst,"116150,0",USD,"116150,0",US,Remoto,US,Média,Analista de Dados
+565,2022,Senior,Tempo integral,Data Engineer,"54000,0",USD,"54000,0",US,Presencial,US,Média,Engenheiro de Dados
+566,2022,Senior,Tempo integral,Data Analyst,"170000,0",USD,"170000,0",US,Remoto,US,Média,Analista de Dados
+567,2022,Pleno,Tempo integral,Data Analyst,"50000,0",GBP,"65438,0",GB,Presencial,GB,Média,Analista de Dados
+568,2022,Senior,Tempo integral,Data Analyst,"80000,0",USD,"80000,0",US,Remoto,US,Média,Analista de Dados
+569,2022,Senior,Tempo integral,Data Scientist,"140000,0",USD,"140000,0",US,Remoto,US,Média,Cientista de Dados
+570,2022,Senior,Tempo integral,Data Scientist,"210000,0",USD,"210000,0",US,Remoto,US,Média,Cientista de Dados
+571,2022,Senior,Tempo integral,Data Scientist,"140000,0",USD,"140000,0",US,Remoto,US,Média,Cientista de Dados
+572,2022,Senior,Tempo integral,Data Analyst,"100000,0",USD,"100000,0",US,Remoto,US,Média,Analista de Dados
+573,2022,Senior,Tempo integral,Data Analyst,"69000,0",USD,"69000,0",US,Remoto,US,Média,Analista de Dados
+574,2022,Senior,Tempo integral,Data Scientist,"210000,0",USD,"210000,0",US,Remoto,US,Média,Cientista de Dados
+575,2022,Senior,Tempo integral,Data Scientist,"140000,0",USD,"140000,0",US,Remoto,US,Média,Cientista de Dados
+576,2022,Senior,Tempo integral,Data Scientist,"210000,0",USD,"210000,0",US,Remoto,US,Média,Cientista de Dados
+577,2022,Senior,Tempo integral,Data Analyst,"150075,0",USD,"150075,0",US,Remoto,US,Média,Analista de Dados
+578,2022,Senior,Tempo integral,Data Engineer,"100000,0",USD,"100000,0",US,Remoto,US,Média,Engenheiro de Dados
+579,2022,Senior,Tempo integral,Data Engineer,"25000,0",USD,"25000,0",US,Remoto,US,Média,Engenheiro de Dados
+580,2022,Senior,Tempo integral,Data Analyst,"126500,0",USD,"126500,0",US,Remoto,US,Média,Analista de Dados
+581,2022,Senior,Tempo integral,Data Analyst,"106260,0",USD,"106260,0",US,Remoto,US,Média,Analista de Dados
+582,2022,Senior,Tempo integral,Data Engineer,"220110,0",USD,"220110,0",US,Remoto,US,Média,Engenheiro de Dados
+583,2022,Senior,Tempo integral,Data Engineer,"160080,0",USD,"160080,0",US,Remoto,US,Média,Engenheiro de Dados
+584,2022,Senior,Tempo integral,Data Analyst,"105000,0",USD,"105000,0",US,Remoto,US,Média,Analista de Dados
+585,2022,Senior,Tempo integral,Data Analyst,"110925,0",USD,"110925,0",US,Remoto,US,Média,Analista de Dados
+586,2022,Pleno,Tempo integral,Data Analyst,"35000,0",GBP,"45807,0",GB,Presencial,GB,Média,Analista de Dados
+587,2022,Senior,Tempo integral,Data Scientist,"140000,0",USD,"140000,0",US,Remoto,US,Média,Cientista de Dados
+588,2022,Senior,Tempo integral,Data Analyst,"99000,0",USD,"99000,0",US,Presencial,US,Média,Analista de Dados
+589,2022,Senior,Tempo integral,Data Analyst,"60000,0",USD,"60000,0",US,Remoto,US,Média,Analista de Dados
+590,2022,Senior,Tempo integral,Data Architect,"192564,0",USD,"192564,0",US,Remoto,US,Média,Arquiteto de Dados
+591,2022,Senior,Tempo integral,Data Architect,"144854,0",USD,"144854,0",US,Remoto,US,Média,Arquiteto de Dados
+592,2022,Senior,Tempo integral,Data Scientist,"230000,0",USD,"230000,0",US,Remoto,US,Média,Cientista de Dados
+593,2022,Senior,Tempo integral,Data Scientist,"150000,0",USD,"150000,0",US,Remoto,US,Média,Cientista de Dados
+594,2022,Senior,Tempo integral,Data Analytics Manager,"150260,0",USD,"150260,0",US,Remoto,US,Média,Analista de Dados
+595,2022,Senior,Tempo integral,Data Analytics Manager,"109280,0",USD,"109280,0",US,Remoto,US,Média,Analista de Dados
+596,2022,Senior,Tempo integral,Data Scientist,"210000,0",USD,"210000,0",US,Remoto,US,Média,Cientista de Dados
+597,2022,Senior,Tempo integral,Data Analyst,"170000,0",USD,"170000,0",US,Remoto,US,Média,Analista de Dados
+598,2022,Pleno,Tempo integral,Data Scientist,"160000,0",USD,"160000,0",US,Remoto,US,Média,Cientista de Dados
+599,2022,Pleno,Tempo integral,Data Scientist,"130000,0",USD,"130000,0",US,Remoto,US,Média,Cientista de Dados
+600,2022,Junior,Tempo integral,Data Analyst,"67000,0",USD,"67000,0",CA,Presencial,CA,Média,Analista de Dados
+601,2022,Junior,Tempo integral,Data Analyst,"52000,0",USD,"52000,0",CA,Presencial,CA,Média,Analista de Dados
+602,2022,Senior,Tempo integral,Data Engineer,"154000,0",USD,"154000,0",US,Remoto,US,Média,Engenheiro de Dados
+603,2022,Senior,Tempo integral,Data Engineer,"126000,0",USD,"126000,0",US,Remoto,US,Média,Engenheiro de Dados
+604,2022,Senior,Tempo integral,Data Analyst,"129000,0",USD,"129000,0",US,Presencial,US,Média,Analista de Dados
+605,2022,Senior,Tempo integral,Data Analyst,"150000,0",USD,"150000,0",US,Remoto,US,Média,Analista de Dados
+606,2022,Pleno,Tempo integral,AI Scientist,"200000,0",USD,"200000,0",IN,Remoto,US,Grande,Cientista de Dados
