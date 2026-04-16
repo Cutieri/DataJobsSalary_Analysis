@@ -1,0 +1,103 @@
+📊 Análise Exploratória de Salários na Área de Dados
+🧠 Preparação dos Dados
+Foi utilizada a variável Salario_em_USD para padronização, evitando distorções causadas por diferentes moedas.
+Foi realizado um processo de feature engineering, agrupando cargos em categorias mais amplas de Área de Atuação:
+Cientista de Dados
+Engenheiro de Dados
+Analista de Dados
+Arquiteto de Dados
+Gerente de Dados
+Valores extremos (outliers) foram identificados utilizando o método IQR:
+Q1: 62.726
+Mediana: 101.570
+Q3: 150.000
+Limite superior: ~280.911
+Os outliers não foram removidos, sendo considerados como salários esporádicos (ex: cargos executivos ou contextos específicos), mas reconhecidos como potenciais distorções em métricas agregadas.
+💰 Análise Geral de Salários
+Média: 112.297 USD
+Mediana: 101.570 USD
+Desvio padrão: 70.957 USD
+
+📌 Insight:
+
+A diferença entre média e mediana indica assimetria à direita, causada por salários elevados.
+📈 Evolução Temporal
+2020: 95.813 USD
+2021: 99.853 USD
+2022: 124.522 USD
+
+📌 Insight:
+
+O mercado apresentou crescimento significativo, especialmente a partir de 2022.
+🎯 Salário por Nível de Experiência
+Junior: 61.643 USD
+Pleno: 87.996 USD
+Senior: 138.617 USD
+Executive: 199.392 USD
+
+📌 Insight:
+
+Existe uma relação direta entre experiência e salário, com maior crescimento entre níveis intermediários e avançados.
+Cargos executivos apresentam alta variabilidade salarial.
+🧠 Salário por Área de Atuação
+Arquiteto de Dados: 171.359 USD
+Gerente de Dados: 160.968 USD
+Cientista de Dados: 115.343 USD
+Engenheiro de Dados: 112.114 USD
+Analista de Dados: 98.851 USD
+
+📌 Insight:
+
+Funções mais estratégicas (arquitetura e gestão) apresentam maior remuneração.
+🏠 Tipo de Trabalho
+Remoto: 122.457 USD
+Presencial: 106.354 USD
+Híbrido: 80.823 USD
+
+📌 Insight:
+
+O trabalho remoto apresenta maior média salarial, possivelmente devido ao acesso a mercados globais.
+🏢 Tamanho da Empresa
+Grande: 119.242 USD
+Média: 116.905 USD
+Pequena: 77.632 USD
+
+📌 Insight:
+
+Empresas maiores tendem a oferecer salários mais elevados.
+🌍 Distribuição Geográfica
+EUA concentram maior número de registros e salários elevados.
+Países com poucos registros apresentam maior variabilidade.
+
+📌 Insight:
+
+A análise por país deve considerar o volume de dados para evitar distorções.
+🔄 Cruzamento: Experiência × Tipo de Trabalho
+
+📌 Insights:
+
+Trabalho remoto apresenta salários superiores em todos os níveis.
+A diferença salarial é mais significativa em cargos executivos.
+Para níveis iniciais, a diferença entre modelos é menor.
+🌍 Tipo de Trabalho por País (Top 5)
+
+📌 Insights:
+
+EUA apresentam forte predominância de trabalho remoto.
+Alguns países ainda mantêm maior presença de trabalho presencial.
+Existe variação significativa na adoção do modelo remoto entre países.
+📊 Demanda por Área ao Longo do Tempo
+
+📌 Insights:
+
+Crescimento consistente em todas as áreas, principalmente:
+Cientista de Dados
+Engenheiro de Dados
+A área de dados está em expansão acelerada.
+🎯 Área × Experiência
+
+📌 Insights:
+
+A maioria dos cargos está concentrada em níveis Pleno e Senior.
+Cargos como Arquitetura e Gestão exigem maior senioridade.
+Há menor presença de cargos Junior em funções estratégicas.

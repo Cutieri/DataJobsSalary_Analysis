@@ -1,128 +1,94 @@
-📊 Análise de Salários na Área de Dados
-📌 Visão Geral
+# 📊 Data Jobs Salary Analysis  
 
-Este projeto tem como objetivo realizar uma análise exploratória de dados (EDA) sobre salários na área de dados, buscando identificar padrões e relações entre variáveis como experiência, área de atuação, localização, tipo de trabalho e tamanho da empresa.
+![Python](https://img.shields.io/badge/Python-3.x-blue)  
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)  
+![Status](https://img.shields.io/badge/Status-Completed-success)  
+![Focus](https://img.shields.io/badge/Focus-Data%20Analytics-purple)
 
-A análise foi conduzida utilizando Python, com foco em gerar insights relevantes e aplicáveis ao contexto de mercado.
+---
 
-🧠 Preparação dos Dados
+## 🧠 Contexto
 
-Para garantir consistência e qualidade na análise, foram realizadas as seguintes etapas:
+Este projeto analisa dados de salários na área de dados com o objetivo de entender padrões de remuneração e identificar fatores que impactam os salários.
 
-Padronização dos salários utilizando a variável Salario_em_USD, evitando distorções entre diferentes moedas.
-Tratamento de valores nulos e inconsistências.
-Criação de uma nova variável (feature engineering) chamada Área de Atuação, agrupando cargos semelhantes em categorias mais amplas:
-Cientista de Dados
-Engenheiro de Dados
-Analista de Dados
-Arquiteto de Dados
-Gerente de Dados
-📊 Tratamento de Outliers
+A análise considera variáveis como experiência, área de atuação, localização e tipo de trabalho, buscando gerar insights relevantes sobre o mercado.
 
-Os outliers foram identificados utilizando o método do Intervalo Interquartil (IQR):
+---
 
-Q1: 62.726
-Mediana: 101.570
-Q3: 150.000
-Limite superior: ~280.911
+## 🎯 Objetivo
 
-Valores acima desse limite foram considerados outliers.
+Gerar insights a partir dos dados para apoiar análises relacionadas a:
 
-Esses dados não foram removidos, pois podem representar casos reais (como cargos executivos ou empresas específicas). No entanto, foram tratados como valores não recorrentes e analisados com cautela, devido ao seu impacto em métricas como média e desvio padrão.
+- Evolução salarial ao longo do tempo  
+- Impacto da experiência na remuneração  
+- Diferenças entre áreas de atuação  
+- Influência do trabalho remoto  
+- Distribuição geográfica dos salários  
 
-💰 Análise Geral de Salários
-Média: 112.297 USD
-Mediana: 101.570 USD
-Desvio padrão: 70.957 USD
+---
 
-A diferença entre média e mediana indica uma distribuição assimétrica à direita, influenciada por salários elevados.
+## 📌 Principais Métricas
 
-📈 Evolução ao Longo do Tempo
-Ano	Salário Médio (USD)
-2020	95.813
-2021	99.853
-2022	124.522
+- 💰 **Salário Médio:** 112.297 USD  
+- 📊 **Mediana Salarial:** 101.570 USD  
+- 📉 **Desvio Padrão:** 70.957 USD  
 
-Observa-se um crescimento consistente nos salários, com destaque para o aumento a partir de 2022.
+---
 
-🎯 Salário por Nível de Experiência
-Nível	Salário Médio (USD)
-Junior	61.643
-Pleno	87.996
-Senior	138.617
-Executive	199.392
+## 🔍 Principais Insights
 
-Há uma clara progressão salarial conforme o aumento da experiência, com maior variação nos níveis mais altos.
+- 📈 **Crescimento do mercado ao longo do tempo**  
+  → Salários aumentaram significativamente entre 2020 e 2022  
 
-🧠 Salário por Área de Atuação
-Área	Salário Médio (USD)
-Arquiteto de Dados	171.359
-Gerente de Dados	160.968
-Cientista de Dados	115.343
-Engenheiro de Dados	112.114
-Analista de Dados	98.851
+- 🎯 **Experiência impacta diretamente o salário**  
+  → Profissionais seniores ganham mais que o dobro de juniores  
 
-Funções com maior responsabilidade estratégica apresentam salários mais elevados.
+- 🏠 **Trabalho remoto apresenta maior remuneração**  
+  → Média salarial superior em comparação ao presencial e híbrido  
 
-🏠 Tipo de Trabalho
-Tipo	Salário Médio (USD)
-Remoto	122.457
-Presencial	106.354
-Híbrido	80.823
+- 🧠 **Funções estratégicas são mais valorizadas**  
+  → Arquitetos e Gerentes de Dados possuem os maiores salários  
 
-O trabalho remoto apresenta maior média salarial, possivelmente devido ao acesso a oportunidades globais.
+- 🌍 **Concentração geográfica relevante**  
+  → Estados Unidos concentram maior volume de dados e salários elevados  
 
-🏢 Tamanho da Empresa
-Tamanho	Salário Médio (USD)
-Grande	119.242
-Média	116.905
-Pequena	77.632
+- ⚠️ **Presença de outliers salariais**  
+  → Valores extremos impactam métricas como média e desvio padrão  
 
-Empresas maiores tendem a oferecer salários mais elevados.
+---
 
-🌍 Análise Geográfica
-Os Estados Unidos concentram a maior quantidade de registros e os maiores salários médios.
-Países com poucos dados apresentam maior variabilidade, o que pode gerar distorções.
-🔄 Cruzamento de Variáveis
-Experiência × Tipo de Trabalho
-O modelo remoto apresenta salários superiores em todos os níveis de experiência.
-A diferença é mais significativa em cargos executivos.
-Área × Experiência
-A maior parte dos profissionais está concentrada nos níveis Pleno e Senior.
-Cargos como Arquitetura e Gestão exigem maior senioridade.
-País × Tipo de Trabalho
-Países como os EUA apresentam forte predominância do trabalho remoto.
-A adoção do modelo de trabalho varia entre regiões.
-📊 Crescimento da Demanda por Área
+## 💡 Recomendações de Negócio
 
-Ao longo dos anos, houve aumento significativo na quantidade de profissionais nas áreas de:
+- Investir no desenvolvimento de profissionais para níveis mais avançados  
+- Considerar modelos remotos para maior competitividade  
+- Estruturar cargos estratégicos para retenção de talentos  
+- Avaliar diferenças regionais na definição salarial  
+- Utilizar dados para apoiar decisões de remuneração  
 
-Ciência de Dados
-Engenharia de Dados
-Análise de Dados
+---
 
-Indicando expansão contínua do mercado de dados.
+## 🛠️ Tecnologias Utilizadas
 
-🚀 Conclusões
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib / Seaborn  
+- Jupyter Notebook  
 
-A análise evidencia que:
+---
 
-O mercado de dados está em crescimento acelerado.
-Experiência é um dos principais fatores de aumento salarial.
-O trabalho remoto impacta positivamente a remuneração.
-Funções estratégicas tendem a ser mais valorizadas.
-A distribuição salarial apresenta alta variabilidade, influenciada por outliers.
-🛠️ Tecnologias Utilizadas
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-📎 Observações Finais
+## 📁 Estrutura do Projeto
 
-Este projeto tem como objetivo demonstrar habilidades em:
+Data_Jobs_Salary_Analysis/  
+│  
+├── data/  
+├── notebooks/  
+└── README.md  
 
-Análise exploratória de dados (EDA)
-Tratamento e preparação de dados
-Geração de insights
-Visualização de dados
+---
+
+## 📬 Contato
+
+- GitHub: [https://github.com/Cutieri](https://github.com/Cutieri)  
+- LinkedIn: [https://www.linkedin.com/in/guilherme-cutieri-42003036b/](https://www.linkedin.com/in/guilherme-cutieri-42003036b/)  
